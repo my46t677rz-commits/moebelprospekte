@@ -1,0 +1,73 @@
+{
+ "contents": [
+  {
+   "number": 0,
+   "images": [
+    {
+     "size": "75x96",
+     "url": "https://content-media.bonial.biz/8faba875-40b0-4bd8-bc58-9b30864ec253/zoomlarge_page_0.jpg?impolicy=previews"
+    },
+    {
+     "size": "768x1024",
+     "url": "https://content-media.bonial.biz/8faba875-40b0-4bd8-bc58-9b30864ec253/zoomlarge_page_0.jpg?impolicy=768x1024"
+    },
+    {
+     "size": "1600x1600",
+     "url": "https://content-media.bonial.biz/8faba875-40b0-4bd8-bc58-9b30864ec253/zoomlarge_page_0.jpg?impolicy=large"
+    },
+    {
+     "size": "2800x2800",
+     "url": "https://content-media.bonial.biz/8faba875-40b0-4bd8-bc58-9b30864ec253/zoomlarge_page_0.jpg?impolicy=zoomlarge"
+    }
+   ],
+   "linkOuts": [],
+   "offers": []
+  },
+  {
+   "number": 1,
+   "images": [
+    {
+     "size": "75x96",
+     "url": "https://content-media.bonial.biz/0c2230f6-9455-49ed-9d78-c472ea41139a/zoomlarge_page_1.jpg?impolicy=previews"
+    },
+    {
+     "size": "768x1024",
+     "url": "https://content-media.bonial.biz/0c2230f6-9455-49ed-9d78-c472ea41139a/zoomlarge_page_1.jpg?impolicy=768x1024"
+    },
+    {
+     "size": "1600x1600",
+     "url": "https://content-media.bonial.biz/0c2230f6-9455-49ed-9d78-c472ea41139a/zoomlarge_page_1.jpg?impolicy=large"
+    },
+    {
+     "size": "2800x2800",
+     "url": "https://content-media.bonial.biz/0c2230f6-9455-49ed-9d78-c472ea41139a/zoomlarge_page_1.jpg?impolicy=zoomlarge"
+    }
+   ],
+   "linkOuts": [],
+   "offers": []
+  },
+  {
+   "number": 2,
+   "images": [
+    {
+     "size": "75x96",
+     "url": "https://content-media.bonial.biz/95526f39-d8d4-4c38-9f12-2fff136408b2/zoomlarge_page_2.jpg?impolicy=previews"
+    },
+    {
+     "size": "768x1024",
+     "url": "https://content-media.bonial.biz/95526f39-d8d4-4c38-9f12-2fff136408b2/zoomlarge_page_2.jpg?impolicy=768x1024"
+    },
+    {
+     "size": "1600x1600",
+     "url": "https://content-media.bonial.biz/95526f39-d8d4-4c38-9f12-2fff136408b2/zoomlarge_page_2.jpg?impolicy=large"
+    },
+    {
+     "size": "2800x2800",
+     "url": "https://content-media.bonial.biz/95526f39-d8d4-4c38-9f12-2fff136408b2/zoomlarge_page_2.jpg?impolicy=zoomlarge"
+    }
+   ],
+   "linkOuts": [],
+   "offers": []
+  }
+ ]
+}

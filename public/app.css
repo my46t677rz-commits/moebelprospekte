@@ -1,0 +1,266 @@
+:root {
+  --grund: #15171b;
+  --flaeche: #1d2026;
+  --rand: #2b2f37;
+  --text: #e4e1da;
+  --leise: #96928a;
+  --akzent: #c7a472;
+  --warnung: #c98a7a;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--grund);
+  color: var(--text);
+  font: 15px/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+}
+
+body.gesperrt { overflow: hidden; }
+
+button { font: inherit; color: inherit; }
+
+.kopf {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 18px 16px 6px;
+}
+
+.kopf h1 { margin: 0; font-size: 20px; font-weight: 650; letter-spacing: -0.01em; }
+
+.stand { margin: 0; color: var(--leise); font-size: 12px; white-space: nowrap; }
+
+/* Filterleiste */
+
+.filter {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  display: flex;
+  gap: 8px;
+  padding: 10px 16px;
+  overflow-x: auto;
+  scrollbar-width: none;
+  background: color-mix(in srgb, var(--grund) 92%, transparent);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+.filter::-webkit-scrollbar { display: none; }
+
+.chip {
+  flex: none;
+  padding: 6px 12px;
+  border: 1px solid var(--rand);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--leise);
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.chip[aria-pressed="true"] { background: var(--flaeche); color: var(--text); border-color: #3a3f49; }
+.chip[aria-pressed="false"] { text-decoration: line-through; opacity: 0.6; }
+.chip .zahl { color: var(--leise); margin-left: 4px; font-variant-numeric: tabular-nums; }
+
+/* Übersicht */
+
+main { padding: 4px 16px 40px; }
+
+.haus { margin-top: 22px; }
+
+.haus-kopf { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; }
+
+.haus-kopf img {
+  width: 34px;
+  height: 22px;
+  object-fit: contain;
+  background: #e9e6df;
+  border-radius: 4px;
+  padding: 2px;
+}
+
+.haus-kopf h2 { margin: 0; font-size: 16px; font-weight: 600; }
+.haus-kopf .ort { color: var(--leise); font-size: 12px; margin-left: auto; white-space: nowrap; }
+
+.raster {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 14px 12px;
+}
+
+.karte {
+  display: block;
+  padding: 0;
+  border: 0;
+  background: none;
+  text-align: left;
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+  min-width: 0;
+}
+
+.titelbild {
+  position: relative;
+  aspect-ratio: 3 / 4;
+  border-radius: 8px;
+  overflow: hidden;
+  background: var(--flaeche);
+  border: 1px solid var(--rand);
+}
+
+.titelbild img { width: 100%; height: 100%; object-fit: cover; object-position: top; display: block; }
+
+.marke {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  padding: 2px 7px;
+  border-radius: 999px;
+  background: rgba(21, 23, 27, 0.86);
+  color: var(--akzent);
+  font-size: 11px;
+  font-weight: 600;
+}
+
+.fortschritt {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 3px;
+  background: var(--akzent);
+  opacity: 0.85;
+}
+
+.karte h3 {
+  margin: 7px 0 1px;
+  font-size: 13px;
+  font-weight: 550;
+  line-height: 1.3;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.karte p { margin: 0; color: var(--leise); font-size: 12px; }
+.karte .bald { color: var(--warnung); }
+
+.karte:focus-visible .titelbild, .chip:focus-visible, .knopf:focus-visible, .pfeil:focus-visible {
+  outline: 2px solid var(--akzent);
+  outline-offset: 2px;
+}
+
+.hinweis { margin: 60px auto; max-width: 30em; text-align: center; color: var(--leise); }
+.hinweis button {
+  margin-top: 14px;
+  padding: 8px 16px;
+  border: 1px solid var(--rand);
+  border-radius: 999px;
+  background: var(--flaeche);
+  cursor: pointer;
+}
+
+/* Betrachter */
+
+.betrachter {
+  position: fixed;
+  inset: 0;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  background: #0c0d10;
+  padding: env(safe-area-inset-top) 0 env(safe-area-inset-bottom);
+}
+
+.betrachter[hidden] { display: none; }
+
+.leiste { display: flex; align-items: center; gap: 10px; padding: 6px 12px 6px 6px; }
+
+.knopf {
+  flex: none;
+  width: 40px;
+  height: 40px;
+  border: 0;
+  border-radius: 50%;
+  background: none;
+  font-size: 17px;
+  cursor: pointer;
+}
+
+.leiste-titel { flex: 1; min-width: 0; font-size: 13px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.leiste-titel strong { font-weight: 600; margin-right: 6px; }
+.leiste-titel span { color: var(--leise); }
+
+.zaehler { flex: none; color: var(--leise); font-size: 13px; font-variant-numeric: tabular-nums; }
+
+.seiten {
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+  overscroll-behavior: contain;
+}
+
+.seiten::-webkit-scrollbar { display: none; }
+
+.seite {
+  flex: 0 0 100%;
+  height: 100%;
+  scroll-snap-align: center;
+  scroll-snap-stop: always;
+  overflow: auto;
+  display: grid;
+  place-items: center;
+  cursor: zoom-in;
+}
+
+.seite img { display: block; max-width: 100%; max-height: 100%; object-fit: contain; }
+
+/* place-items zurücksetzen: zentrierter Überlauf wäre links nicht erreichbar. */
+.seite.gross { display: block; place-items: start; cursor: zoom-out; }
+.seite.gross img { width: 260%; max-width: none; max-height: none; }
+
+.seite .fehlt { color: var(--leise); font-size: 13px; }
+
+.pfeil {
+  display: none;
+  position: absolute;
+  top: 50%;
+  width: 44px;
+  height: 64px;
+  margin-top: -32px;
+  border: 0;
+  border-radius: 8px;
+  background: rgba(29, 32, 38, 0.8);
+  font-size: 28px;
+  cursor: pointer;
+}
+
+.pfeil-zurueck { left: 10px; }
+.pfeil-weiter { right: 10px; }
+.pfeil:disabled { opacity: 0.25; cursor: default; }
+
+@media (hover: hover) and (pointer: fine) {
+  .pfeil { display: block; }
+}
+
+@media (min-width: 700px) {
+  .raster { grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 20px 16px; }
+  main, .kopf, .filter { padding-left: 28px; padding-right: 28px; }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .seiten.weich { scroll-behavior: smooth; }
+}

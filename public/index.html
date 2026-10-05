@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="referrer" content="no-referrer">
+  <meta name="theme-color" content="#15171b">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Prospekte">
+  <title>Möbelprospekte</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon-180.png">
+  <link rel="stylesheet" href="app.css">
+</head>
+<body>
+  <header class="kopf">
+    <h1>Möbelprospekte</h1>
+    <p class="stand" id="stand"></p>
+  </header>
+
+  <nav class="filter" id="filter" aria-label="Häuser ein- und ausblenden"></nav>
+
+  <main id="uebersicht" aria-live="polite"></main>
+
+  <div class="betrachter" id="betrachter" hidden role="dialog" aria-modal="true" aria-label="Prospekt">
+    <div class="leiste">
+      <button type="button" class="knopf" id="schliessen" aria-label="Schließen">✕</button>
+      <div class="leiste-titel">
+        <strong id="b-haus"></strong>
+        <span id="b-titel"></span>
+      </div>
+      <span class="zaehler" id="b-zaehler"></span>
+    </div>
+    <div class="seiten" id="seiten"></div>
+    <button type="button" class="pfeil pfeil-zurueck" id="zurueck" aria-label="Vorherige Seite">‹</button>
+    <button type="button" class="pfeil pfeil-weiter" id="weiter" aria-label="Nächste Seite">›</button>
+  </div>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>

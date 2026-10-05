@@ -1,0 +1,11 @@
+{
+  "name": "moebelprospekte",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "abruf": "node scripts/abruf.js",
+    "test": "node --test",
+    "start": "npx --yes serve public -l 4173"
+  }
+}

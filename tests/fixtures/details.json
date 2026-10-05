@@ -1,0 +1,63 @@
+{
+ "content": {
+  "contentBadges": [],
+  "id": "fad5e767-5076-49ad-a424-18b26000a5e1",
+  "image": "https://content-media.bonial.biz/fad5e767-5076-49ad-a424-18b26000a5e1/preview.jpg",
+  "legacyId": 2501270032,
+  "pageCount": 16,
+  "publisher": {
+   "id": "DE-1063",
+   "type": "RETAILER",
+   "name": "ROLLER",
+   "primarySectorId": "DE-24",
+   "images": [
+    {
+     "url": "https://publisher-media.bonial.biz/publisher-logos/68ec354b-217f-4c76-a5d0-a09859d56141.png?impolicy=128x128",
+     "size": "128x128"
+    },
+    {
+     "url": "https://publisher-media.bonial.biz/publisher-logos/68ec354b-217f-4c76-a5d0-a09859d56141.png?impolicy=64x64",
+     "size": "64x64"
+    },
+    {
+     "url": "https://publisher-media.bonial.biz/publisher-logos/68ec354b-217f-4c76-a5d0-a09859d56141.png?impolicy=80x50",
+     "size": "80x50"
+    },
+    {
+     "url": "https://publisher-media.bonial.biz/publisher-logos/68ec354b-217f-4c76-a5d0-a09859d56141.png?impolicy=60x25",
+     "size": "60x25"
+    },
+    {
+     "url": "https://publisher-media.bonial.biz/publisher-logos/68ec354b-217f-4c76-a5d0-a09859d56141.png?impolicy=448x314",
+     "size": "448x314"
+    },
+    {
+     "url": "https://publisher-media.bonial.biz/publisher-logos/68ec354b-217f-4c76-a5d0-a09859d56141.png?impolicy=224x157",
+     "size": "224x157"
+    },
+    {
+     "url": "https://publisher-media.bonial.biz/publisher-logos/68ec354b-217f-4c76-a5d0-a09859d56141.png?impolicy=47x69",
+     "size": "47x69"
+    },
+    {
+     "url": "https://publisher-media.bonial.biz/publisher-logos/68ec354b-217f-4c76-a5d0-a09859d56141.png?impolicy=47x69",
+     "size": "47x69",
+     "type": "offer"
+    }
+   ]
+  },
+  "title": "ERSCHRECKEND GÜNSTIGE ANGEBOTE",
+  "type": "static_brochure",
+  "nearestStoreEnabled": true,
+  "header": {
+   "image": "https://content-media.bonial.biz/fad5e767-5076-49ad-a424-18b26000a5e1/c3b5500e-f326-3a47-aad9-9ce7b2b7ca0c.jpeg"
+  },
+  "validFrom": "2026-09-26T22:00:00.000+0000",
+  "validUntil": "2026-10-24T21:00:00.000+0000",
+  "showPremiumPanel": false
+ },
+ "externalTracking": {
+  "impression": [],
+  "click": []
+ }
+}

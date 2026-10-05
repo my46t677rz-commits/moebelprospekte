@@ -1,0 +1,871 @@
+{
+ "contents": [
+  {
+   "placement": "ad_placement__shelf_sort_managed",
+   "adFormat": "ad_format__brochure_card_cover",
+   "contentType": "brochure",
+   "content": {
+    "id": 2501263376,
+    "contentId": "7dcbc386-e632-4c02-8c1e-3ef0dd4a16ef",
+    "closestStore": {
+     "id": 134454804,
+     "name": "Möbel Inhofer",
+     "latitude": 48.3284,
+     "longitude": 10.0372,
+     "street": "Ulmer Str.",
+     "streetNumber": "50",
+     "zip": "89250",
+     "city": "Senden"
+    },
+    "header": {
+     "image": {
+      "url": "https://content-media.bonial.biz/7dcbc386-e632-4c02-8c1e-3ef0dd4a16ef/ce930c87-c446-3f83-b28d-d682c4365929.jpeg",
+      "dimensions": {
+       "width": 2800,
+       "height": 1194
+      }
+     }
+    },
+    "title": "WOHNEN EXKLUSIV",
+    "type": "BROCHURE",
+    "publishedFrom": "2026-09-16T22:00:00.000+0000",
+    "publishedUntil": "2026-10-10T21:00:00.000+0000",
+    "validFrom": "2026-09-16T22:00:00.000+0000",
+    "validUntil": "2026-10-10T21:00:00.000+0000",
+    "hideValidityDate": false,
+    "externalTracking": {
+     "click": [],
+     "impression": []
+    },
+    "badges": [],
+    "brochureImage": {
+     "url": "https://content-media.bonial.biz/7dcbc386-e632-4c02-8c1e-3ef0dd4a16ef/preview.jpg"
+    },
+    "storeDetailsEnabled": false,
+    "brochureImages": [
+     {
+      "size": "75x96",
+      "url": "https://content-media.bonial.biz/7dcbc386-e632-4c02-8c1e-3ef0dd4a16ef/preview.jpg?impolicy=previews"
+     },
+     {
+      "size": "120x150",
+      "url": "https://content-media.bonial.biz/7dcbc386-e632-4c02-8c1e-3ef0dd4a16ef/preview.jpg?impolicy=120x150"
+     },
+     {
+      "size": "150x150",
+      "url": "https://content-media.bonial.biz/7dcbc386-e632-4c02-8c1e-3ef0dd4a16ef/preview.jpg?impolicy=thumbnails"
+     },
+     {
+      "size": "190x200",
+      "url": "https://content-media.bonial.biz/7dcbc386-e632-4c02-8c1e-3ef0dd4a16ef/preview.jpg?impolicy=190x200"
+     },
+     {
+      "size": "260x270",
+      "url": "https://content-media.bonial.biz/7dcbc386-e632-4c02-8c1e-3ef0dd4a16ef/preview.jpg?impolicy=260x270"
+     },
+     {
+      "size": "320x480",
+      "url": "https://content-media.bonial.biz/7dcbc386-e632-4c02-8c1e-3ef0dd4a16ef/preview.jpg?impolicy=320x480"
+     },
+     {
+      "size": "750x750",
+      "url": "https://content-media.bonial.biz/7dcbc386-e632-4c02-8c1e-3ef0dd4a16ef/preview.jpg?impolicy=normal"
+     },
+     {
+      "size": "768x1024",
+      "url": "https://content-media.bonial.biz/7dcbc386-e632-4c02-8c1e-3ef0dd4a16ef/preview.jpg?impolicy=768x1024"
+     },
+     {
+      "size": "1600x1600",
+      "url": "https://content-media.bonial.biz/7dcbc386-e632-4c02-8c1e-3ef0dd4a16ef/preview.jpg?impolicy=large"
+     },
+     {
+      "size": "2800x2800",
+      "url": "https://content-media.bonial.biz/7dcbc386-e632-4c02-8c1e-3ef0dd4a16ef/preview.jpg?impolicy=zoomlarge"
+     }
+    ],
+    "publisher": {
+     "id": "DE-134454220",
+     "name": "Möbel Inhofer",
+     "type": "RETAILER"
+    },
+    "pageCount": 20,
+    "score": 0.17383,
+    "visible": true,
+    "contentBadges": []
+   },
+   "externalTracking": {
+    "impression": [],
+    "click": []
+   }
+  },
+  {
+   "placement": "ad_placement__shelf_sort_managed",
+   "adFormat": "ad_format__brochure_card_cover",
+   "contentType": "brochure",
+   "content": {
+    "id": 2501279819,
+    "contentId": "84180894-1877-46a1-90f7-3c67d7a07766",
+    "closestStore": {
+     "id": 1659149518,
+     "externalId": "69",
+     "name": "ROLLER",
+     "latitude": 48.3054,
+     "longitude": 11.636,
+     "street": "Liebigstraße",
+     "streetNumber": "4",
+     "zip": "85386",
+     "city": "Eching"
+    },
+    "header": {
+     "image": {
+      "url": "https://content-media.bonial.biz/84180894-1877-46a1-90f7-3c67d7a07766/c3b5500e-f326-3a47-aad9-9ce7b2b7ca0c.jpeg",
+      "dimensions": {
+       "width": 1500,
+       "height": 642
+      }
+     }
+    },
+    "title": "Polster-Komfort individuell planbar",
+    "type": "BROCHURE",
+    "publishedFrom": "2026-10-03T22:00:00.000+0000",
+    "publishedUntil": "2026-10-10T21:00:00.000+0000",
+    "validFrom": "2026-09-26T22:00:00.000+0000",
+    "validUntil": "2026-10-24T21:00:00.000+0000",
+    "hideValidityDate": false,
+    "externalTracking": {
+     "click": [],
+     "impression": []
+    },
+    "badges": [],
+    "brochureImage": {
+     "url": "https://content-media.bonial.biz/84180894-1877-46a1-90f7-3c67d7a07766/preview.jpg"
+    },
+    "storeDetailsEnabled": false,
+    "brochureImages": [
+     {
+      "size": "75x96",
+      "url": "https://content-media.bonial.biz/84180894-1877-46a1-90f7-3c67d7a07766/preview.jpg?impolicy=previews"
+     },
+     {
+      "size": "120x150",
+      "url": "https://content-media.bonial.biz/84180894-1877-46a1-90f7-3c67d7a07766/preview.jpg?impolicy=120x150"
+     },
+     {
+      "size": "150x150",
+      "url": "https://content-media.bonial.biz/84180894-1877-46a1-90f7-3c67d7a07766/preview.jpg?impolicy=thumbnails"
+     },
+     {
+      "size": "190x200",
+      "url": "https://content-media.bonial.biz/84180894-1877-46a1-90f7-3c67d7a07766/preview.jpg?impolicy=190x200"
+     },
+     {
+      "size": "260x270",
+      "url": "https://content-media.bonial.biz/84180894-1877-46a1-90f7-3c67d7a07766/preview.jpg?impolicy=260x270"
+     },
+     {
+      "size": "320x480",
+      "url": "https://content-media.bonial.biz/84180894-1877-46a1-90f7-3c67d7a07766/preview.jpg?impolicy=320x480"
+     },
+     {
+      "size": "750x750",
+      "url": "https://content-media.bonial.biz/84180894-1877-46a1-90f7-3c67d7a07766/preview.jpg?impolicy=normal"
+     },
+     {
+      "size": "768x1024",
+      "url": "https://content-media.bonial.biz/84180894-1877-46a1-90f7-3c67d7a07766/preview.jpg?impolicy=768x1024"
+     },
+     {
+      "size": "1600x1600",
+      "url": "https://content-media.bonial.biz/84180894-1877-46a1-90f7-3c67d7a07766/preview.jpg?impolicy=large"
+     },
+     {
+      "size": "2800x2800",
+      "url": "https://content-media.bonial.biz/84180894-1877-46a1-90f7-3c67d7a07766/preview.jpg?impolicy=zoomlarge"
+     }
+    ],
+    "publisher": {
+     "id": "DE-1063",
+     "name": "ROLLER",
+     "type": "RETAILER"
+    },
+    "pageCount": 4,
+    "score": 0.06349,
+    "visible": true,
+    "contentBadges": []
+   },
+   "externalTracking": {
+    "impression": [],
+    "click": []
+   }
+  },
+  {
+   "placement": "ad_placement__shelf_sort_managed",
+   "adFormat": "ad_format__brochure_card_cover",
+   "contentType": "brochure",
+   "content": {
+    "id": 2501286183,
+    "contentId": "9f0cb283-f9ae-4848-8c1e-025db6524733",
+    "closestStore": {
+     "id": 35266598,
+     "externalId": "PA",
+     "name": "Segmüller Einrichtungshaus Parsdorf",
+     "latitude": 48.1464,
+     "longitude": 11.785,
+     "street": "Heimstettener Straße",
+     "streetNumber": "10",
+     "zip": "85599",
+     "city": "Parsdorf"
+    },
+    "header": {
+     "image": {
+      "url": "https://content-media.bonial.biz/9f0cb283-f9ae-4848-8c1e-025db6524733/84930cf3-0283-391a-aa02-3894d58f2423.jpeg",
+      "dimensions": {
+       "width": 1849,
+       "height": 789
+      }
+     },
+     "linkOut": {
+      "id": "a5b57f22-8ca2-4bbd-a7dd-3f431335dbb8",
+      "intent": "DETAILS",
+      "webUrl": "https://www.segmueller.de/prospekte/2610op3-teppiche?utm_medium=display&utm_source=bonial&utm_campaign=2610op3&utm_content=na&utm_term=na",
+      "mobileUrl": "https://www.segmueller.de/prospekte/2610op3-teppiche?utm_medium=display&utm_source=bonial&utm_campaign=2610op3&utm_content=na&utm_term=na"
+     }
+    },
+    "title": "Zum Glück gibt’s Segmüller - Teppiche",
+    "type": "DYNAMIC",
+    "publishedFrom": "2026-10-04T22:00:00.000+0000",
+    "publishedUntil": "2026-11-01T22:00:00.000+0000",
+    "validFrom": "2026-10-04T22:00:00.000+0000",
+    "validUntil": "2026-11-01T22:00:00.000+0000",
+    "hideValidityDate": false,
+    "externalTracking": {
+     "click": [],
+     "impression": []
+    },
+    "badges": [],
+    "brochureImage": {
+     "url": "https://content-media.bonial.biz/9f0cb283-f9ae-4848-8c1e-025db6524733/preview.jpg"
+    },
+    "storeDetailsEnabled": true,
+    "brochureImages": [
+     {
+      "size": "75x96",
+      "url": "https://content-media.bonial.biz/9f0cb283-f9ae-4848-8c1e-025db6524733/preview.jpg?impolicy=previews"
+     },
+     {
+      "size": "120x150",
+      "url": "https://content-media.bonial.biz/9f0cb283-f9ae-4848-8c1e-025db6524733/preview.jpg?impolicy=120x150"
+     },
+     {
+      "size": "150x150",
+      "url": "https://content-media.bonial.biz/9f0cb283-f9ae-4848-8c1e-025db6524733/preview.jpg?impolicy=thumbnails"
+     },
+     {
+      "size": "190x200",
+      "url": "https://content-media.bonial.biz/9f0cb283-f9ae-4848-8c1e-025db6524733/preview.jpg?impolicy=190x200"
+     },
+     {
+      "size": "260x270",
+      "url": "https://content-media.bonial.biz/9f0cb283-f9ae-4848-8c1e-025db6524733/preview.jpg?impolicy=260x270"
+     },
+     {
+      "size": "320x480",
+      "url": "https://content-media.bonial.biz/9f0cb283-f9ae-4848-8c1e-025db6524733/preview.jpg?impolicy=320x480"
+     },
+     {
+      "size": "750x750",
+      "url": "https://content-media.bonial.biz/9f0cb283-f9ae-4848-8c1e-025db6524733/preview.jpg?impolicy=normal"
+     },
+     {
+      "size": "768x1024",
+      "url": "https://content-media.bonial.biz/9f0cb283-f9ae-4848-8c1e-025db6524733/preview.jpg?impolicy=768x1024"
+     },
+     {
+      "size": "1600x1600",
+      "url": "https://content-media.bonial.biz/9f0cb283-f9ae-4848-8c1e-025db6524733/preview.jpg?impolicy=large"
+     },
+     {
+      "size": "2800x2800",
+      "url": "https://content-media.bonial.biz/9f0cb283-f9ae-4848-8c1e-025db6524733/preview.jpg?impolicy=zoomlarge"
+     }
+    ],
+    "publisher": {
+     "id": "DE-34906847",
+     "name": "Segmüller",
+     "type": "RETAILER"
+    },
+    "score": 0.05156,
+    "visible": true,
+    "contentBadges": [
+     {
+      "name": "new"
+     }
+    ]
+   },
+   "externalTracking": {
+    "impression": [],
+    "click": []
+   }
+  },
+  {
+   "placement": "ad_placement__shelf_sort_managed",
+   "adFormat": "ad_format__brochure_card_cover",
+   "contentType": "brochure",
+   "content": {
+    "id": 2501280585,
+    "contentId": "765cd724-fb5c-41dd-b71f-249a90fc4ef4",
+    "closestStore": {
+     "id": 35266598,
+     "externalId": "PA",
+     "name": "Segmüller Einrichtungshaus Parsdorf",
+     "latitude": 48.1464,
+     "longitude": 11.785,
+     "street": "Heimstettener Straße",
+     "streetNumber": "10",
+     "zip": "85599",
+     "city": "Parsdorf"
+    },
+    "header": {
+     "image": {
+      "url": "https://content-media.bonial.biz/765cd724-fb5c-41dd-b71f-249a90fc4ef4/0b2dbd33-5d99-3609-954c-2a1d6e667349.jpeg",
+      "dimensions": {
+       "width": 1280,
+       "height": 720
+      }
+     }
+    },
+    "title": "Zum Glück gibt’s Segmüller - Glückswochen",
+    "type": "BROCHURE",
+    "publishedFrom": "2026-10-02T22:00:00.000+0000",
+    "publishedUntil": "2026-10-10T21:59:00.000+0000",
+    "validFrom": "2026-10-02T22:00:00.000+0000",
+    "validUntil": "2026-10-17T21:00:00.000+0000",
+    "hideValidityDate": false,
+    "externalTracking": {
+     "click": [],
+     "impression": []
+    },
+    "badges": [],
+    "brochureImage": {
+     "url": "https://content-media.bonial.biz/765cd724-fb5c-41dd-b71f-249a90fc4ef4/preview.jpg"
+    },
+    "storeDetailsEnabled": false,
+    "brochureImages": [
+     {
+      "size": "75x96",
+      "url": "https://content-media.bonial.biz/765cd724-fb5c-41dd-b71f-249a90fc4ef4/preview.jpg?impolicy=previews"
+     },
+     {
+      "size": "120x150",
+      "url": "https://content-media.bonial.biz/765cd724-fb5c-41dd-b71f-249a90fc4ef4/preview.jpg?impolicy=120x150"
+     },
+     {
+      "size": "150x150",
+      "url": "https://content-media.bonial.biz/765cd724-fb5c-41dd-b71f-249a90fc4ef4/preview.jpg?impolicy=thumbnails"
+     },
+     {
+      "size": "190x200",
+      "url": "https://content-media.bonial.biz/765cd724-fb5c-41dd-b71f-249a90fc4ef4/preview.jpg?impolicy=190x200"
+     },
+     {
+      "size": "260x270",
+      "url": "https://content-media.bonial.biz/765cd724-fb5c-41dd-b71f-249a90fc4ef4/preview.jpg?impolicy=260x270"
+     },
+     {
+      "size": "320x480",
+      "url": "https://content-media.bonial.biz/765cd724-fb5c-41dd-b71f-249a90fc4ef4/preview.jpg?impolicy=320x480"
+     },
+     {
+      "size": "750x750",
+      "url": "https://content-media.bonial.biz/765cd724-fb5c-41dd-b71f-249a90fc4ef4/preview.jpg?impolicy=normal"
+     },
+     {
+      "size": "768x1024",
+      "url": "https://content-media.bonial.biz/765cd724-fb5c-41dd-b71f-249a90fc4ef4/preview.jpg?impolicy=768x1024"
+     },
+     {
+      "size": "1600x1600",
+      "url": "https://content-media.bonial.biz/765cd724-fb5c-41dd-b71f-249a90fc4ef4/preview.jpg?impolicy=large"
+     },
+     {
+      "size": "2800x2800",
+      "url": "https://content-media.bonial.biz/765cd724-fb5c-41dd-b71f-249a90fc4ef4/preview.jpg?impolicy=zoomlarge"
+     }
+    ],
+    "publisher": {
+     "id": "DE-34906847",
+     "name": "Segmüller",
+     "type": "RETAILER"
+    },
+    "pageCount": 6,
+    "score": 0.04257,
+    "visible": true,
+    "contentBadges": [
+     {
+      "name": "new"
+     }
+    ]
+   },
+   "externalTracking": {
+    "impression": [],
+    "click": []
+   }
+  },
+  {
+   "placement": "ad_placement__shelf_sort_managed",
+   "adFormat": null,
+   "contentType": "blogCarousel",
+   "content": [
+    {
+     "title": "kinder Joy: Dieser Gratis-Deal bei Kaufland ist perfekt für Sammler!",
+     "campaignItemId": null,
+     "teaserText": "Hier erfahrt ihr, wie ihr kostenlose kinder Joy bei Kaufland bekommt!",
+     "id": 13793,
+     "displaySponsoredBadge": false,
+     "link": "https://www.kaufda.de/insights/kinder-joy-dieser-gratis-deal-bei-kaufland-ist-perfekt-fuer-sammler/",
+     "imgURL": "https://web-assets.kaufda.de/Kaufland_kinder_joy_4_1_gratis_Deal_298ed38bd7.png?impolicy=BLOG_ARTICLE"
+    }
+   ],
+   "externalTracking": {
+    "impression": [],
+    "click": []
+   }
+  },
+  {
+   "placement": "ad_placement__shelf_sort_managed",
+   "adFormat": "ad_format__brochure_card_cover",
+   "contentType": "brochure",
+   "content": {
+    "id": 2501279861,
+    "contentId": "7a4f95ca-3406-4e61-9891-31930846f10b",
+    "closestStore": {
+     "id": 333589853,
+     "externalId": "CG",
+     "name": "mömax Eching",
+     "latitude": 48.3041,
+     "longitude": 11.6314,
+     "street": "Heisenbergstraße",
+     "streetNumber": "2",
+     "zip": "85386",
+     "city": "Eching-Ost"
+    },
+    "header": {
+     "image": {
+      "url": "https://content-media.bonial.biz/7a4f95ca-3406-4e61-9891-31930846f10b/ce930c87-c446-3f83-b28d-d682c4365929.jpeg",
+      "dimensions": {
+       "width": 2800,
+       "height": 1194
+      }
+     }
+    },
+    "title": "Bei den Lampentrends haut's dir den Vogel raus!",
+    "type": "BROCHURE",
+    "publishedFrom": "2026-09-28T11:45:00.000+0000",
+    "publishedUntil": "2026-11-01T22:00:00.000+0000",
+    "validFrom": "2026-09-27T22:00:00.000+0000",
+    "validUntil": "2026-11-01T22:00:00.000+0000",
+    "hideValidityDate": false,
+    "externalTracking": {
+     "click": [],
+     "impression": []
+    },
+    "badges": [],
+    "brochureImage": {
+     "url": "https://content-media.bonial.biz/7a4f95ca-3406-4e61-9891-31930846f10b/preview.jpg"
+    },
+    "storeDetailsEnabled": false,
+    "brochureImages": [
+     {
+      "size": "75x96",
+      "url": "https://content-media.bonial.biz/7a4f95ca-3406-4e61-9891-31930846f10b/preview.jpg?impolicy=previews"
+     },
+     {
+      "size": "120x150",
+      "url": "https://content-media.bonial.biz/7a4f95ca-3406-4e61-9891-31930846f10b/preview.jpg?impolicy=120x150"
+     },
+     {
+      "size": "150x150",
+      "url": "https://content-media.bonial.biz/7a4f95ca-3406-4e61-9891-31930846f10b/preview.jpg?impolicy=thumbnails"
+     },
+     {
+      "size": "190x200",
+      "url": "https://content-media.bonial.biz/7a4f95ca-3406-4e61-9891-31930846f10b/preview.jpg?impolicy=190x200"
+     },
+     {
+      "size": "260x270",
+      "url": "https://content-media.bonial.biz/7a4f95ca-3406-4e61-9891-31930846f10b/preview.jpg?impolicy=260x270"
+     },
+     {
+      "size": "320x480",
+      "url": "https://content-media.bonial.biz/7a4f95ca-3406-4e61-9891-31930846f10b/preview.jpg?impolicy=320x480"
+     },
+     {
+      "size": "750x750",
+      "url": "https://content-media.bonial.biz/7a4f95ca-3406-4e61-9891-31930846f10b/preview.jpg?impolicy=normal"
+     },
+     {
+      "size": "768x1024",
+      "url": "https://content-media.bonial.biz/7a4f95ca-3406-4e61-9891-31930846f10b/preview.jpg?impolicy=768x1024"
+     },
+     {
+      "size": "1600x1600",
+      "url": "https://content-media.bonial.biz/7a4f95ca-3406-4e61-9891-31930846f10b/preview.jpg?impolicy=large"
+     },
+     {
+      "size": "2800x2800",
+      "url": "https://content-media.bonial.biz/7a4f95ca-3406-4e61-9891-31930846f10b/preview.jpg?impolicy=zoomlarge"
+     }
+    ],
+    "publisher": {
+     "id": "DE-34906053",
+     "name": "mömax",
+     "type": "RETAILER"
+    },
+    "pageCount": 12,
+    "score": 0.0396,
+    "visible": true,
+    "contentBadges": []
+   },
+   "externalTracking": {
+    "impression": [],
+    "click": []
+   }
+  },
+  {
+   "placement": "ad_placement__shelf_sort_managed",
+   "adFormat": "ad_format__brochure_card_cover",
+   "contentType": "brochure",
+   "content": {
+    "id": 2501281431,
+    "contentId": "863c09cd-0c65-450d-8246-1bf1021f7e04",
+    "closestStore": {
+     "id": 251085904,
+     "externalId": "EM",
+     "name": "XXXLutz Emslander",
+     "latitude": 48.5548,
+     "longitude": 12.1485,
+     "street": "Siemensstraße",
+     "streetNumber": "9",
+     "zip": "84030",
+     "city": "Landshut"
+    },
+    "header": {
+     "image": {
+      "url": "https://content-media.bonial.biz/863c09cd-0c65-450d-8246-1bf1021f7e04/cc68ea3a-2b95-36f6-bd51-4aa0500619b2.jpeg",
+      "dimensions": {
+       "width": 1500,
+       "height": 640
+      }
+     },
+     "linkOut": {
+      "id": "9ca04893-14e3-470d-9856-79cb1bfde8a6",
+      "intent": "DETAILS",
+      "webUrl": "https://ad.doubleclick.net/ddm/trackclk/N1119191.3097312BONIAL/B36953147.457815478;dc_trk_aid=652482994;dc_trk_cid=188919391;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};gpp=${GPP_STRING_755};gpp_sid=${GPP_SID};ltd=;dc_tdv=1?https://www.xxxlutz.de/p/homeware-profession-wasserkocher-1-7-l-007907042001?utm_source=google-cm-bonial&utm_medium=display_broad&utm_campaign=2026-09-28--2026-10-11_spo_prospekt_pull-dyco-b406f_con-thi_st-off_dis-bro_ltz-de&utm_content=%epid!-%ecid!",
+      "mobileUrl": "https://ad.doubleclick.net/ddm/trackclk/N1119191.3097312BONIAL/B36953147.457815478;dc_trk_aid=652482994;dc_trk_cid=188919391;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};gpp=${GPP_STRING_755};gpp_sid=${GPP_SID};ltd=;dc_tdv=1?https://www.xxxlutz.de/p/homeware-profession-wasserkocher-1-7-l-007907042001?utm_source=google-cm-bonial&utm_medium=display_broad&utm_campaign=2026-09-28--2026-10-11_spo_prospekt_pull-dyco-b406f_con-thi_st-off_dis-bro_ltz-de&utm_content=%epid!-%ecid!"
+     }
+    },
+    "title": "TOP DEALS für Ihren Haushalt",
+    "type": "DYNAMIC",
+    "publishedFrom": "2026-10-04T22:00:00.000+0000",
+    "publishedUntil": "2026-10-18T21:00:00.000+0000",
+    "validFrom": "2026-10-04T22:00:00.000+0000",
+    "validUntil": "2026-10-18T21:00:00.000+0000",
+    "hideValidityDate": false,
+    "externalTracking": {
+     "click": [
+      "https://ad.doubleclick.net/ddm/trackimp/N1119191.3097312BONIAL/B36953147.457814914;dc_trk_aid=652264044;dc_trk_cid=188919391;ord=${timestamp};dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};gpp=;gpp_sid=;ltd=;dc_tdv=1?",
+      "https://ad.doubleclick.net/ddm/trackimp/N1119191.3097312BONIAL/B33182745.413667262;dc_trk_aid=606046860;dc_trk_cid=212037979;ord=${timestamp};dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?"
+     ],
+     "impression": []
+    },
+    "badges": [],
+    "brochureImage": {
+     "url": "https://content-media.bonial.biz/863c09cd-0c65-450d-8246-1bf1021f7e04/preview.jpg"
+    },
+    "storeDetailsEnabled": true,
+    "brochureImages": [
+     {
+      "size": "75x96",
+      "url": "https://content-media.bonial.biz/863c09cd-0c65-450d-8246-1bf1021f7e04/preview.jpg?impolicy=previews"
+     },
+     {
+      "size": "120x150",
+      "url": "https://content-media.bonial.biz/863c09cd-0c65-450d-8246-1bf1021f7e04/preview.jpg?impolicy=120x150"
+     },
+     {
+      "size": "150x150",
+      "url": "https://content-media.bonial.biz/863c09cd-0c65-450d-8246-1bf1021f7e04/preview.jpg?impolicy=thumbnails"
+     },
+     {
+      "size": "190x200",
+      "url": "https://content-media.bonial.biz/863c09cd-0c65-450d-8246-1bf1021f7e04/preview.jpg?impolicy=190x200"
+     },
+     {
+      "size": "260x270",
+      "url": "https://content-media.bonial.biz/863c09cd-0c65-450d-8246-1bf1021f7e04/preview.jpg?impolicy=260x270"
+     },
+     {
+      "size": "320x480",
+      "url": "https://content-media.bonial.biz/863c09cd-0c65-450d-8246-1bf1021f7e04/preview.jpg?impolicy=320x480"
+     },
+     {
+      "size": "750x750",
+      "url": "https://content-media.bonial.biz/863c09cd-0c65-450d-8246-1bf1021f7e04/preview.jpg?impolicy=normal"
+     },
+     {
+      "size": "768x1024",
+      "url": "https://content-media.bonial.biz/863c09cd-0c65-450d-8246-1bf1021f7e04/preview.jpg?impolicy=768x1024"
+     },
+     {
+      "size": "1600x1600",
+      "url": "https://content-media.bonial.biz/863c09cd-0c65-450d-8246-1bf1021f7e04/preview.jpg?impolicy=large"
+     },
+     {
+      "size": "2800x2800",
+      "url": "https://content-media.bonial.biz/863c09cd-0c65-450d-8246-1bf1021f7e04/preview.jpg?impolicy=zoomlarge"
+     }
+    ],
+    "publisher": {
+     "id": "DE-34906914",
+     "name": "XXXLutz",
+     "type": "RETAILER"
+    },
+    "score": 0.03182,
+    "visible": true,
+    "contentBadges": [
+     {
+      "name": "new"
+     }
+    ]
+   },
+   "externalTracking": {
+    "impression": [],
+    "click": []
+   }
+  },
+  {
+   "placement": "ad_placement__shelf_sort_managed",
+   "adFormat": "ad_format__brochure_premium",
+   "contentType": "brochurePremium",
+   "content": {
+    "id": 2501284759,
+    "contentId": "ce537157-fa26-4354-b008-ee8bc6774c9f",
+    "closestStore": {
+     "id": 1902,
+     "externalId": "063",
+     "name": "IKEA München - Eching",
+     "latitude": 48.3043,
+     "longitude": 11.634229,
+     "street": "Heisenbergstraße",
+     "streetNumber": "14",
+     "zip": "85386",
+     "city": "Eching"
+    },
+    "header": {
+     "image": {
+      "url": "https://content-media.bonial.biz/ce537157-fa26-4354-b008-ee8bc6774c9f/b1e42c19-e6a9-39f1-9dbc-bc1a6c456e7e.jpeg",
+      "dimensions": {
+       "width": 1182,
+       "height": 504
+      }
+     },
+     "linkOut": {
+      "id": "63f6aec9-f5f0-440d-91a3-be3dc09ab826",
+      "intent": "DETAILS",
+      "webUrl": "https://track.adform.net/C/?bn=89901509;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_50}",
+      "mobileUrl": "https://track.adform.net/C/?bn=89901509;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_50}"
+     }
+    },
+    "title": "Jetzt zugreifen: Viele Schuhschränke bis 18.10. günstiger.",
+    "type": "DYNAMIC",
+    "publishedFrom": "2026-10-04T22:00:00.000+0000",
+    "publishedUntil": "2026-10-11T22:00:00.000+0000",
+    "validFrom": "2026-10-04T22:00:00.000+0000",
+    "validUntil": "2026-10-11T22:00:00.000+0000",
+    "hideValidityDate": false,
+    "externalTracking": {
+     "click": [
+      "https://track.adform.net/adfserve/?bn=90045535;1x1inv=1;srctype=3;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_50};ord=${timestamp}"
+     ],
+     "impression": []
+    },
+    "badges": [],
+    "brochureImage": {
+     "url": "https://content-media.bonial.biz/ce537157-fa26-4354-b008-ee8bc6774c9f/preview.jpg"
+    },
+    "storeDetailsEnabled": true,
+    "brochureImages": [
+     {
+      "size": "75x96",
+      "url": "https://content-media.bonial.biz/ce537157-fa26-4354-b008-ee8bc6774c9f/preview.jpg?impolicy=previews"
+     },
+     {
+      "size": "120x150",
+      "url": "https://content-media.bonial.biz/ce537157-fa26-4354-b008-ee8bc6774c9f/preview.jpg?impolicy=120x150"
+     },
+     {
+      "size": "150x150",
+      "url": "https://content-media.bonial.biz/ce537157-fa26-4354-b008-ee8bc6774c9f/preview.jpg?impolicy=thumbnails"
+     },
+     {
+      "size": "190x200",
+      "url": "https://content-media.bonial.biz/ce537157-fa26-4354-b008-ee8bc6774c9f/preview.jpg?impolicy=190x200"
+     },
+     {
+      "size": "260x270",
+      "url": "https://content-media.bonial.biz/ce537157-fa26-4354-b008-ee8bc6774c9f/preview.jpg?impolicy=260x270"
+     },
+     {
+      "size": "320x480",
+      "url": "https://content-media.bonial.biz/ce537157-fa26-4354-b008-ee8bc6774c9f/preview.jpg?impolicy=320x480"
+     },
+     {
+      "size": "750x750",
+      "url": "https://content-media.bonial.biz/ce537157-fa26-4354-b008-ee8bc6774c9f/preview.jpg?impolicy=normal"
+     },
+     {
+      "size": "768x1024",
+      "url": "https://content-media.bonial.biz/ce537157-fa26-4354-b008-ee8bc6774c9f/preview.jpg?impolicy=768x1024"
+     },
+     {
+      "size": "1600x1600",
+      "url": "https://content-media.bonial.biz/ce537157-fa26-4354-b008-ee8bc6774c9f/preview.jpg?impolicy=large"
+     },
+     {
+      "size": "2800x2800",
+      "url": "https://content-media.bonial.biz/ce537157-fa26-4354-b008-ee8bc6774c9f/preview.jpg?impolicy=zoomlarge"
+     }
+    ],
+    "publisher": {
+     "id": "DE-1002",
+     "name": "IKEA",
+     "type": "RETAILER"
+    },
+    "score": 0.01726,
+    "visible": true,
+    "contentBadges": [
+     {
+      "name": "new"
+     }
+    ]
+   },
+   "externalTracking": {
+    "impression": [],
+    "click": []
+   }
+  },
+  {
+   "placement": "ad_placement__shelf_sort_managed",
+   "adFormat": "ad_format__brochure_card_cover",
+   "contentType": "brochure",
+   "content": {
+    "id": 2501281480,
+    "contentId": "041e9ccb-d268-4563-8c2d-b3d6294449f1",
+    "closestStore": {
+     "id": 35266996,
+     "externalId": "AN",
+     "name": "XXXLutz",
+     "latitude": 48.1642,
+     "longitude": 11.7388,
+     "street": "Eichendorffstraße",
+     "streetNumber": "40",
+     "zip": "85609",
+     "city": "Aschheim"
+    },
+    "header": {
+     "image": {
+      "url": "https://content-media.bonial.biz/041e9ccb-d268-4563-8c2d-b3d6294449f1/cfa81fbd-289b-32e2-a32c-f6749160b9a1.jpeg",
+      "dimensions": {
+       "width": 1280,
+       "height": 720
+      }
+     }
+    },
+    "title": "10% AUF ALLES",
+    "type": "BROCHURE",
+    "publishedFrom": "2026-10-02T22:00:00.000+0000",
+    "publishedUntil": "2026-10-09T21:00:00.000+0000",
+    "validFrom": "2026-10-02T22:00:00.000+0000",
+    "validUntil": "2026-10-09T21:00:00.000+0000",
+    "hideValidityDate": false,
+    "externalTracking": {
+     "click": [
+      "https://ad.doubleclick.net/ddm/trackimp/N1119191.3097312BONIAL/B33182745.413667262;dc_trk_aid=606046860;dc_trk_cid=212037979;ord=${timestamp};dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?"
+     ],
+     "impression": []
+    },
+    "badges": [],
+    "brochureImage": {
+     "url": "https://content-media.bonial.biz/041e9ccb-d268-4563-8c2d-b3d6294449f1/preview.jpg"
+    },
+    "storeDetailsEnabled": false,
+    "brochureImages": [
+     {
+      "size": "75x96",
+      "url": "https://content-media.bonial.biz/041e9ccb-d268-4563-8c2d-b3d6294449f1/preview.jpg?impolicy=previews"
+     },
+     {
+      "size": "120x150",
+      "url": "https://content-media.bonial.biz/041e9ccb-d268-4563-8c2d-b3d6294449f1/preview.jpg?impolicy=120x150"
+     },
+     {
+      "size": "150x150",
+      "url": "https://content-media.bonial.biz/041e9ccb-d268-4563-8c2d-b3d6294449f1/preview.jpg?impolicy=thumbnails"
+     },
+     {
+      "size": "190x200",
+      "url": "https://content-media.bonial.biz/041e9ccb-d268-4563-8c2d-b3d6294449f1/preview.jpg?impolicy=190x200"
+     },
+     {
+      "size": "260x270",
+      "url": "https://content-media.bonial.biz/041e9ccb-d268-4563-8c2d-b3d6294449f1/preview.jpg?impolicy=260x270"
+     },
+     {
+      "size": "320x480",
+      "url": "https://content-media.bonial.biz/041e9ccb-d268-4563-8c2d-b3d6294449f1/preview.jpg?impolicy=320x480"
+     },
+     {
+      "size": "750x750",
+      "url": "https://content-media.bonial.biz/041e9ccb-d268-4563-8c2d-b3d6294449f1/preview.jpg?impolicy=normal"
+     },
+     {
+      "size": "768x1024",
+      "url": "https://content-media.bonial.biz/041e9ccb-d268-4563-8c2d-b3d6294449f1/preview.jpg?impolicy=768x1024"
+     },
+     {
+      "size": "1600x1600",
+      "url": "https://content-media.bonial.biz/041e9ccb-d268-4563-8c2d-b3d6294449f1/preview.jpg?impolicy=large"
+     },
+     {
+      "size": "2800x2800",
+      "url": "https://content-media.bonial.biz/041e9ccb-d268-4563-8c2d-b3d6294449f1/preview.jpg?impolicy=zoomlarge"
+     }
+    ],
+    "publisher": {
+     "id": "DE-34906914",
+     "name": "XXXLutz",
+     "type": "RETAILER"
+    },
+    "pageCount": 2,
+    "score": 0.00976,
+    "visible": true,
+    "contentBadges": [
+     {
+      "name": "new"
+     }
+    ]
+   },
+   "externalTracking": {
+    "impression": [],
+    "click": []
+   }
+  }
+ ],
+ "page": {
+  "size": 24,
+  "totalElements": 33,
+  "totalPages": 2,
+  "number": 0
+ }
+}
