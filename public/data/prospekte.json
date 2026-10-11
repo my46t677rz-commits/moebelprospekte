@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-10T10:32:52.504Z",
+ "stand": "2026-10-11T10:45:28.277Z",
  "haeuser": [
   {
    "id": "DE-1002",
@@ -133,21 +133,21 @@
    ]
   },
   {
-   "id": "84180894-1877-46a1-90f7-3c67d7a07766",
+   "id": "a4975529-c1ae-4648-8df1-3c945278b409",
    "haus": "DE-1063",
-   "titel": "Polster-Komfort individuell planbar",
+   "titel": "Speisen modern gedacht",
    "gueltigVon": "2026-09-26T22:00:00.000Z",
    "gueltigBis": "2026-10-24T21:00:00.000Z",
-   "erstmalsGesehen": "2026-09-26",
+   "erstmalsGesehen": "2026-10-11",
    "art": "seiten",
-   "titelbild": "https://content-media.bonial.biz/84180894-1877-46a1-90f7-3c67d7a07766/preview.jpg",
+   "titelbild": "https://content-media.bonial.biz/a4975529-c1ae-4648-8df1-3c945278b409/preview.jpg",
    "filiale": "Eching",
    "entfernungKm": 24,
    "seiten": [
-    "https://content-media.bonial.biz/24221209-8ffa-4e8c-badb-6e6fcadd916b/zoomlarge_page_0.jpg",
-    "https://content-media.bonial.biz/680208f2-9b12-4537-ad32-bbcc9efe8edc/zoomlarge_page_1.jpg",
-    "https://content-media.bonial.biz/c1322f3b-334e-4ce4-806d-822f5df71486/zoomlarge_page_2.jpg",
-    "https://content-media.bonial.biz/b2848749-2ac6-41c8-bda1-32c1e524538a/zoomlarge_page_3.jpg"
+    "https://content-media.bonial.biz/e494ed63-0cb5-45bc-99d9-b1e161f01503/zoomlarge_page_0.jpg",
+    "https://content-media.bonial.biz/fcc9ea62-14c4-4178-b049-c68b4716df49/zoomlarge_page_1.jpg",
+    "https://content-media.bonial.biz/35803080-9d34-4dab-a21f-4245f43589e4/zoomlarge_page_2.jpg",
+    "https://content-media.bonial.biz/ed936429-2ed8-4278-a749-9d73ca9ffe0d/zoomlarge_page_3.jpg"
    ]
   },
   {
@@ -698,23 +698,23 @@
    "seiten": []
   },
   {
-   "id": "765cd724-fb5c-41dd-b71f-249a90fc4ef4",
+   "id": "ba64735d-86af-461c-b55b-bfeed2b29bfb",
    "haus": "DE-34906847",
    "titel": "Zum Glück gibt’s Segmüller - Glückswochen",
    "gueltigVon": "2026-10-02T22:00:00.000Z",
    "gueltigBis": "2026-10-17T21:00:00.000Z",
-   "erstmalsGesehen": "2026-10-02",
+   "erstmalsGesehen": "2026-10-11",
    "art": "seiten",
-   "titelbild": "https://content-media.bonial.biz/765cd724-fb5c-41dd-b71f-249a90fc4ef4/preview.jpg",
+   "titelbild": "https://content-media.bonial.biz/ba64735d-86af-461c-b55b-bfeed2b29bfb/preview.jpg",
    "filiale": "Parsdorf",
    "entfernungKm": 40,
    "seiten": [
-    "https://content-media.bonial.biz/102d45f3-52cb-4dd4-a197-70f919a5a8dd/zoomlarge_page_0.jpg",
-    "https://content-media.bonial.biz/3694aff3-a6cb-4be4-9d33-4be8a1c33b48/zoomlarge_page_1.jpg",
-    "https://content-media.bonial.biz/697258fa-3d00-44b2-a4b4-2a58e45f0cc8/zoomlarge_page_2.jpg",
-    "https://content-media.bonial.biz/e49e2691-1325-43c2-9d01-ee8fe26313aa/zoomlarge_page_3.jpg",
-    "https://content-media.bonial.biz/e9f9ec10-0307-4438-829f-cb9fbcfa59e7/zoomlarge_page_4.jpg",
-    "https://content-media.bonial.biz/13da4217-f8c6-4ed6-ac71-3e94c824e138/zoomlarge_page_5.jpg"
+    "https://content-media.bonial.biz/e79fae89-df8f-40c7-a185-75af955ff472/zoomlarge_page_0.jpg",
+    "https://content-media.bonial.biz/b801d623-ee0a-4cdb-b210-f6caa660f3c4/zoomlarge_page_1.jpg",
+    "https://content-media.bonial.biz/183f60a0-415c-4322-8141-e35d2ce66467/zoomlarge_page_2.jpg",
+    "https://content-media.bonial.biz/9a6055d1-e2b3-4a17-9e96-f0b49293d8d0/zoomlarge_page_3.jpg",
+    "https://content-media.bonial.biz/58d23d72-77fb-4c6f-85ee-99b12ae11742/zoomlarge_page_4.jpg",
+    "https://content-media.bonial.biz/b607057a-3119-4e00-b564-58ab03751469/zoomlarge_page_5.jpg"
    ]
   },
   {
@@ -740,53 +740,31 @@
    ]
   },
   {
-   "id": "07a711bc-3a8a-49d8-9db5-f3032ea2a478",
+   "id": "9cef8296-dac5-4e72-844c-bc4d6aa1fa07",
    "haus": "DE-34906847",
    "titel": "Zum Glück gibts Segmüller - Schlafen",
    "gueltigVon": "2026-09-30T22:00:00.000Z",
    "gueltigBis": "2026-11-30T22:00:00.000Z",
-   "erstmalsGesehen": "2026-09-30",
+   "erstmalsGesehen": "2026-10-11",
    "art": "seiten",
-   "titelbild": "https://content-media.bonial.biz/07a711bc-3a8a-49d8-9db5-f3032ea2a478/preview.jpg",
+   "titelbild": "https://content-media.bonial.biz/9cef8296-dac5-4e72-844c-bc4d6aa1fa07/preview.jpg",
    "filiale": "Parsdorf",
    "entfernungKm": 40,
    "seiten": [
-    "https://content-media.bonial.biz/2be36cf3-993a-48bf-9b93-331216deaa23/zoomlarge_page_0.jpg",
-    "https://content-media.bonial.biz/28b7793a-e9da-4973-9247-16b0748f157b/zoomlarge_page_1.jpg",
-    "https://content-media.bonial.biz/8cd7bd9c-f0c2-4a71-b5a0-e35274dcf996/zoomlarge_page_2.jpg",
-    "https://content-media.bonial.biz/5a39d71b-a211-4613-a500-e1d33aa09a1d/zoomlarge_page_3.jpg",
-    "https://content-media.bonial.biz/919cdb54-806d-441a-a83f-7a597f342160/zoomlarge_page_4.jpg",
-    "https://content-media.bonial.biz/ec3036c7-92af-4ef4-b4c9-390c1ee1d01f/zoomlarge_page_5.jpg",
-    "https://content-media.bonial.biz/cc705288-726d-4077-a7e6-8d52162c7873/zoomlarge_page_6.jpg",
-    "https://content-media.bonial.biz/afce74c8-c2e9-4c13-95f8-3ae87ffe6228/zoomlarge_page_7.jpg",
-    "https://content-media.bonial.biz/1d5d0b46-2042-4887-ba97-985ff6e988ea/zoomlarge_page_8.jpg",
-    "https://content-media.bonial.biz/7c729106-d969-405e-9074-908480e5037b/zoomlarge_page_9.jpg",
-    "https://content-media.bonial.biz/3c9ac188-1024-4ca2-9d58-59005f951d66/zoomlarge_page_10.jpg",
-    "https://content-media.bonial.biz/fd242128-7dde-4a74-8279-bcb7e156a83e/zoomlarge_page_11.jpg",
-    "https://content-media.bonial.biz/de1305ab-f35d-41f2-8412-cb3625c63671/zoomlarge_page_12.jpg",
-    "https://content-media.bonial.biz/bc8e557c-8170-4050-852d-9d49600cca16/zoomlarge_page_13.jpg"
-   ]
-  },
-  {
-   "id": "4054113c-739a-47cb-868c-3a2bfe1c84f3",
-   "haus": "DE-34906847",
-   "titel": "Zum Glück gibt’s Segmüller - Segmüller Select",
-   "gueltigVon": "2026-09-25T22:00:00.000Z",
-   "gueltigBis": "2026-10-10T21:00:00.000Z",
-   "erstmalsGesehen": "2026-09-25",
-   "art": "seiten",
-   "titelbild": "https://content-media.bonial.biz/4054113c-739a-47cb-868c-3a2bfe1c84f3/preview.jpg",
-   "filiale": "Parsdorf",
-   "entfernungKm": 40,
-   "seiten": [
-    "https://content-media.bonial.biz/7deaec80-9ccb-432f-b0d8-c2d9ddc833d9/zoomlarge_page_0.jpg",
-    "https://content-media.bonial.biz/153cabb1-b599-46a3-922b-37ec25beb221/zoomlarge_page_1.jpg",
-    "https://content-media.bonial.biz/aa175c97-234c-4686-96e8-d4400910c7db/zoomlarge_page_2.jpg",
-    "https://content-media.bonial.biz/348e978f-f39b-48ec-a7d6-ae6c0000e3d0/zoomlarge_page_3.jpg",
-    "https://content-media.bonial.biz/2444b1f8-c2e7-4081-9755-fcf08b99fa5b/zoomlarge_page_4.jpg",
-    "https://content-media.bonial.biz/9998b95f-5779-4b62-bc27-86675fbf1c48/zoomlarge_page_5.jpg",
-    "https://content-media.bonial.biz/275ba3c1-9c10-43ea-92ff-bf9a7950e05c/zoomlarge_page_6.jpg",
-    "https://content-media.bonial.biz/e6a2931d-8235-4c12-8b3e-1c8635b21480/zoomlarge_page_7.jpg"
+    "https://content-media.bonial.biz/f8951df0-9b75-40bb-95f3-2740e75f00b1/zoomlarge_page_0.jpg",
+    "https://content-media.bonial.biz/66f79c68-084c-4526-8875-723e18f14bdd/zoomlarge_page_1.jpg",
+    "https://content-media.bonial.biz/2e4d6318-9d29-4fb8-89ff-f9b1965f393a/zoomlarge_page_2.jpg",
+    "https://content-media.bonial.biz/24f89232-cf80-4662-85a5-b351d2f4dc52/zoomlarge_page_3.jpg",
+    "https://content-media.bonial.biz/743575b2-9c5a-40df-acd9-c1cce756c0ab/zoomlarge_page_4.jpg",
+    "https://content-media.bonial.biz/0bfd9b77-99c2-4835-b498-21c3c6776e85/zoomlarge_page_5.jpg",
+    "https://content-media.bonial.biz/431af15f-ef95-4e8f-b386-d0865b3388f8/zoomlarge_page_6.jpg",
+    "https://content-media.bonial.biz/37f5dc2e-5e0e-42fa-bd7d-4842e92bda68/zoomlarge_page_7.jpg",
+    "https://content-media.bonial.biz/eb7a3d5e-9baf-475f-83ea-4434efe089e5/zoomlarge_page_8.jpg",
+    "https://content-media.bonial.biz/c1fed3b8-db07-4858-b3e1-a26cd3b98c8d/zoomlarge_page_9.jpg",
+    "https://content-media.bonial.biz/8b8c4b80-3b84-425b-9da2-c3ab3a875cdf/zoomlarge_page_10.jpg",
+    "https://content-media.bonial.biz/350f4a3b-c5b1-45ee-ae5e-1c4c19d51520/zoomlarge_page_11.jpg",
+    "https://content-media.bonial.biz/25c7d606-3d90-4814-be23-7d5edc23f0d6/zoomlarge_page_12.jpg",
+    "https://content-media.bonial.biz/5bf69233-b53e-4371-809e-a2adddf3e20f/zoomlarge_page_13.jpg"
    ]
   },
   {
