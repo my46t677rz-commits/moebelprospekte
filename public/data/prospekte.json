@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-13T11:40:23.273Z",
+ "stand": "2026-10-14T09:27:15.992Z",
  "haeuser": [
   {
    "id": "DE-1002",
@@ -149,6 +149,19 @@
     "https://content-media.bonial.biz/35803080-9d34-4dab-a21f-4245f43589e4/zoomlarge_page_2.jpg",
     "https://content-media.bonial.biz/ed936429-2ed8-4278-a749-9d73ca9ffe0d/zoomlarge_page_3.jpg"
    ]
+  },
+  {
+   "id": "cc95a606-8fa2-41a4-9728-2b9d81966e47",
+   "haus": "DE-34906914",
+   "titel": "SONDERVERKAUF",
+   "gueltigVon": "2026-10-12T22:00:00.000Z",
+   "gueltigBis": "2026-10-26T22:00:00.000Z",
+   "erstmalsGesehen": "2026-10-14",
+   "art": "liste",
+   "titelbild": "https://content-media.bonial.biz/cc95a606-8fa2-41a4-9728-2b9d81966e47/preview.jpg",
+   "filiale": "Landshut",
+   "entfernungKm": 29,
+   "seiten": []
   },
   {
    "id": "47f103b5-6900-4d51-b9e6-bcf548e2e077",
