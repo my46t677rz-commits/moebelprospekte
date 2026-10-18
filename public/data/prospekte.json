@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-17T08:29:42.919Z",
+ "stand": "2026-10-18T08:47:49.978Z",
  "haeuser": [
   {
    "id": "DE-1002",
@@ -133,21 +133,21 @@
    ]
   },
   {
-   "id": "a4975529-c1ae-4648-8df1-3c945278b409",
+   "id": "2ea77151-dc6a-4835-b03a-400ef927c0f1",
    "haus": "DE-1063",
-   "titel": "Speisen modern gedacht",
+   "titel": "Starke Deals, heiße Preise!",
    "gueltigVon": "2026-09-26T22:00:00.000Z",
    "gueltigBis": "2026-10-24T21:00:00.000Z",
-   "erstmalsGesehen": "2026-10-11",
+   "erstmalsGesehen": "2026-10-18",
    "art": "seiten",
-   "titelbild": "https://content-media.bonial.biz/a4975529-c1ae-4648-8df1-3c945278b409/preview.jpg",
+   "titelbild": "https://content-media.bonial.biz/2ea77151-dc6a-4835-b03a-400ef927c0f1/preview.jpg",
    "filiale": "Eching",
    "entfernungKm": 24,
    "seiten": [
-    "https://content-media.bonial.biz/e494ed63-0cb5-45bc-99d9-b1e161f01503/zoomlarge_page_0.jpg",
-    "https://content-media.bonial.biz/fcc9ea62-14c4-4178-b049-c68b4716df49/zoomlarge_page_1.jpg",
-    "https://content-media.bonial.biz/35803080-9d34-4dab-a21f-4245f43589e4/zoomlarge_page_2.jpg",
-    "https://content-media.bonial.biz/ed936429-2ed8-4278-a749-9d73ca9ffe0d/zoomlarge_page_3.jpg"
+    "https://content-media.bonial.biz/72266ff0-b824-4364-9e0e-8fea2c3a9440/zoomlarge_page_0.jpg",
+    "https://content-media.bonial.biz/73efd08d-85fe-448d-a353-b5f5a068c3b0/zoomlarge_page_1.jpg",
+    "https://content-media.bonial.biz/1eedee66-8b9b-45d0-be3e-4329ffc55197/zoomlarge_page_2.jpg",
+    "https://content-media.bonial.biz/8e5c53c2-85b3-4064-a50b-2c2066bd91e4/zoomlarge_page_3.jpg"
    ]
   },
   {
@@ -703,52 +703,6 @@
    "seiten": []
   },
   {
-   "id": "9531704f-e12c-4f6b-b5d9-829b902ff65d",
-   "haus": "DE-34906914",
-   "titel": "Koinor Spezial",
-   "gueltigVon": "2026-10-02T22:00:00.000Z",
-   "gueltigBis": "2026-10-17T21:00:00.000Z",
-   "erstmalsGesehen": "2026-10-02",
-   "art": "seiten",
-   "titelbild": "https://content-media.bonial.biz/9531704f-e12c-4f6b-b5d9-829b902ff65d/preview.jpg",
-   "filiale": "Landshut",
-   "entfernungKm": 29,
-   "seiten": [
-    "https://content-media.bonial.biz/568821b1-e448-48a7-9394-072d77a57964/zoomlarge_page_0.jpg",
-    "https://content-media.bonial.biz/417013ca-15b5-4ad4-808c-5c9d99d61d22/zoomlarge_page_1.jpg",
-    "https://content-media.bonial.biz/90b3a68a-8770-411c-9f19-1b04de39ff83/zoomlarge_page_2.jpg",
-    "https://content-media.bonial.biz/05b3ac02-8307-4c4f-8fd1-1781d742b445/zoomlarge_page_3.jpg",
-    "https://content-media.bonial.biz/ce43fa3b-224f-4136-9da5-0aa22950a0b3/zoomlarge_page_4.jpg",
-    "https://content-media.bonial.biz/02128f6d-e4d7-4599-bfbf-b5fa31a0ff22/zoomlarge_page_5.jpg",
-    "https://content-media.bonial.biz/36864a29-a678-4740-8b3a-43f91f394713/zoomlarge_page_6.jpg",
-    "https://content-media.bonial.biz/496a9809-a6d9-45d8-b17b-4a66a26786e7/zoomlarge_page_7.jpg"
-   ]
-  },
-  {
-   "id": "4003978a-e2e0-4b9d-99d9-ee565e21e21f",
-   "haus": "DE-34906914",
-   "titel": "Massivholzmöbel",
-   "gueltigVon": "2026-10-02T22:00:00.000Z",
-   "gueltigBis": "2026-10-17T21:00:00.000Z",
-   "erstmalsGesehen": "2026-10-02",
-   "art": "seiten",
-   "titelbild": "https://content-media.bonial.biz/4003978a-e2e0-4b9d-99d9-ee565e21e21f/preview.jpg",
-   "filiale": "Landshut",
-   "entfernungKm": 29,
-   "seiten": [
-    "https://content-media.bonial.biz/2357364c-75ac-4084-b163-5df1fc10e8f7/zoomlarge_page_0.jpg",
-    "https://content-media.bonial.biz/a0b734ba-4eb2-45e1-96a4-c54c94d021f5/zoomlarge_page_1.jpg",
-    "https://content-media.bonial.biz/95130d40-54a3-4e19-bcd2-c01fad263e52/zoomlarge_page_2.jpg",
-    "https://content-media.bonial.biz/ccaf6c7b-35d9-480d-a63b-a23b78cf1dd9/zoomlarge_page_3.jpg",
-    "https://content-media.bonial.biz/b5059e5d-2f5a-4677-9a52-97eb8f1e949f/zoomlarge_page_4.jpg",
-    "https://content-media.bonial.biz/8cef9cf1-b81d-4887-b4ad-37b98c8514c2/zoomlarge_page_5.jpg",
-    "https://content-media.bonial.biz/d60370ed-646a-4542-bb5c-35521eba58f0/zoomlarge_page_6.jpg",
-    "https://content-media.bonial.biz/b5dec32d-2d56-471d-ae3b-977a9acca083/zoomlarge_page_7.jpg",
-    "https://content-media.bonial.biz/e11ed0e5-925c-4195-bc6b-4e4fa6ba60d4/zoomlarge_page_8.jpg",
-    "https://content-media.bonial.biz/b5337d7f-d9e1-4a41-8945-a75a104a1c05/zoomlarge_page_9.jpg"
-   ]
-  },
-  {
    "id": "1746e3bf-1c25-4f88-ad0f-b818edee710e",
    "haus": "DE-34906914",
    "titel": "RED SHOPPING WEEK",
@@ -788,42 +742,6 @@
     "https://content-media.bonial.biz/1715c92d-8f9a-4f40-b5c2-9c19ce836f76/zoomlarge_page_25.jpg",
     "https://content-media.bonial.biz/c03eedfd-e855-432c-82aa-40d57fa703d4/zoomlarge_page_26.jpg",
     "https://content-media.bonial.biz/7c4df7df-09fa-4d9a-9d72-4109ff277cb7/zoomlarge_page_27.jpg"
-   ]
-  },
-  {
-   "id": "760b2f92-b5e4-40ac-85e7-36d86a7a87c8",
-   "haus": "DE-34906914",
-   "titel": "WOHNIDEEN so individuell wie du!",
-   "gueltigVon": "2026-10-02T22:00:00.000Z",
-   "gueltigBis": "2026-10-17T21:00:00.000Z",
-   "erstmalsGesehen": "2026-10-02",
-   "art": "seiten",
-   "titelbild": "https://content-media.bonial.biz/760b2f92-b5e4-40ac-85e7-36d86a7a87c8/preview.jpg",
-   "filiale": "Landshut",
-   "entfernungKm": 29,
-   "seiten": [
-    "https://content-media.bonial.biz/545f08af-eb9d-4fe3-b706-738b5e6a3af2/zoomlarge_page_0.jpg",
-    "https://content-media.bonial.biz/9645c21f-8dbf-476a-bfd0-8bebfdceb5fd/zoomlarge_page_1.jpg",
-    "https://content-media.bonial.biz/a080cd20-f3f5-4996-99c7-9412d1fc34f6/zoomlarge_page_2.jpg",
-    "https://content-media.bonial.biz/a0b23d34-1582-4887-8053-3086d4bd530a/zoomlarge_page_3.jpg",
-    "https://content-media.bonial.biz/4ecfce73-089a-4c34-984d-0127df62e3e2/zoomlarge_page_4.jpg",
-    "https://content-media.bonial.biz/5d8c707e-6ad8-40d1-9220-088b25de2a25/zoomlarge_page_5.jpg",
-    "https://content-media.bonial.biz/e298c938-1d01-4ebf-a7dc-627807061317/zoomlarge_page_6.jpg",
-    "https://content-media.bonial.biz/7598a233-1136-421c-9523-fac0a42d66b0/zoomlarge_page_7.jpg",
-    "https://content-media.bonial.biz/885e8f82-515e-4bf7-a81c-2e3dd744f94f/zoomlarge_page_8.jpg",
-    "https://content-media.bonial.biz/afa46e74-73d8-4b7b-bcfb-1c436a24fd92/zoomlarge_page_9.jpg",
-    "https://content-media.bonial.biz/ed1bb2d8-de7a-434c-ab9f-07d76ed70669/zoomlarge_page_10.jpg",
-    "https://content-media.bonial.biz/871efe10-388f-4244-b48e-15b91d1386b6/zoomlarge_page_11.jpg",
-    "https://content-media.bonial.biz/265ef833-cf69-46aa-a19b-09c07df82d7e/zoomlarge_page_12.jpg",
-    "https://content-media.bonial.biz/3ad2bc64-7a98-4eaa-bbb2-b35dbeb0f258/zoomlarge_page_13.jpg",
-    "https://content-media.bonial.biz/98bad2a6-01d3-4d28-a1b4-a4755aca6639/zoomlarge_page_14.jpg",
-    "https://content-media.bonial.biz/6bf415e6-bdcb-4541-9ddd-40212a89cb4d/zoomlarge_page_15.jpg",
-    "https://content-media.bonial.biz/c1968c79-263a-465b-9a7c-cb2e7e3a36ef/zoomlarge_page_16.jpg",
-    "https://content-media.bonial.biz/c5a3fa5f-b815-40c5-8661-8ec73c67e5f3/zoomlarge_page_17.jpg",
-    "https://content-media.bonial.biz/3c1f202b-c9b4-441c-b7be-b3051fb25937/zoomlarge_page_18.jpg",
-    "https://content-media.bonial.biz/e3c67094-78e4-482a-84c2-7916fc4fc7be/zoomlarge_page_19.jpg",
-    "https://content-media.bonial.biz/c33eb9c3-fb5c-4229-b75e-6cc9d5a358ee/zoomlarge_page_20.jpg",
-    "https://content-media.bonial.biz/518e111f-f12b-4a9a-aac7-335a7ddfd2d7/zoomlarge_page_21.jpg"
    ]
   },
   {
@@ -936,26 +854,6 @@
    "seiten": []
   },
   {
-   "id": "ba64735d-86af-461c-b55b-bfeed2b29bfb",
-   "haus": "DE-34906847",
-   "titel": "Zum Glück gibt’s Segmüller - Glückswochen",
-   "gueltigVon": "2026-10-02T22:00:00.000Z",
-   "gueltigBis": "2026-10-17T21:00:00.000Z",
-   "erstmalsGesehen": "2026-10-11",
-   "art": "seiten",
-   "titelbild": "https://content-media.bonial.biz/ba64735d-86af-461c-b55b-bfeed2b29bfb/preview.jpg",
-   "filiale": "Parsdorf",
-   "entfernungKm": 40,
-   "seiten": [
-    "https://content-media.bonial.biz/e79fae89-df8f-40c7-a185-75af955ff472/zoomlarge_page_0.jpg",
-    "https://content-media.bonial.biz/b801d623-ee0a-4cdb-b210-f6caa660f3c4/zoomlarge_page_1.jpg",
-    "https://content-media.bonial.biz/183f60a0-415c-4322-8141-e35d2ce66467/zoomlarge_page_2.jpg",
-    "https://content-media.bonial.biz/9a6055d1-e2b3-4a17-9e96-f0b49293d8d0/zoomlarge_page_3.jpg",
-    "https://content-media.bonial.biz/58d23d72-77fb-4c6f-85ee-99b12ae11742/zoomlarge_page_4.jpg",
-    "https://content-media.bonial.biz/b607057a-3119-4e00-b564-58ab03751469/zoomlarge_page_5.jpg"
-   ]
-  },
-  {
    "id": "16d24d2c-646e-401e-9a85-2cb65bee0e60",
    "haus": "DE-34906847",
    "titel": "Zum Glück gibt’s Segmüller - Stressless",
@@ -1003,36 +901,6 @@
     "https://content-media.bonial.biz/350f4a3b-c5b1-45ee-ae5e-1c4c19d51520/zoomlarge_page_11.jpg",
     "https://content-media.bonial.biz/25c7d606-3d90-4814-be23-7d5edc23f0d6/zoomlarge_page_12.jpg",
     "https://content-media.bonial.biz/5bf69233-b53e-4371-809e-a2adddf3e20f/zoomlarge_page_13.jpg"
-   ]
-  },
-  {
-   "id": "63f91f97-c0eb-4419-b118-71ee34c5257c",
-   "haus": "DE-34906847",
-   "titel": "Zum Glück gibt’s Segmüller - Küchen Spezial",
-   "gueltigVon": "2026-09-17T22:00:00.000Z",
-   "gueltigBis": "2026-10-17T21:00:00.000Z",
-   "erstmalsGesehen": "2026-09-17",
-   "art": "seiten",
-   "titelbild": "https://content-media.bonial.biz/63f91f97-c0eb-4419-b118-71ee34c5257c/preview.jpg",
-   "filiale": "Parsdorf",
-   "entfernungKm": 40,
-   "seiten": [
-    "https://content-media.bonial.biz/92df0ff3-9d81-4567-bda7-42a4d67fdf7a/zoomlarge_page_0.jpg",
-    "https://content-media.bonial.biz/3558763b-25e0-4ef1-9585-245d015fe627/zoomlarge_page_1.jpg",
-    "https://content-media.bonial.biz/129bf0a6-18a7-4649-9166-2262ee0e58ae/zoomlarge_page_2.jpg",
-    "https://content-media.bonial.biz/14aa7432-e088-4804-a6ba-d34e42469c65/zoomlarge_page_3.jpg",
-    "https://content-media.bonial.biz/bea2d2cb-2ae3-4a8e-8d3d-7c11999edfa6/zoomlarge_page_4.jpg",
-    "https://content-media.bonial.biz/e46d7de4-7d1e-4f4d-9713-d20a4fd9b1b6/zoomlarge_page_5.jpg",
-    "https://content-media.bonial.biz/6bcb1f0c-b879-4b69-9d8b-083bd51b93fb/zoomlarge_page_6.jpg",
-    "https://content-media.bonial.biz/b0878018-dcc1-44a9-be21-6bdc94467dc2/zoomlarge_page_7.jpg",
-    "https://content-media.bonial.biz/3274ae7f-8633-4499-8ac8-005f01fbae11/zoomlarge_page_8.jpg",
-    "https://content-media.bonial.biz/f708303b-2670-4576-bb93-149a07debf80/zoomlarge_page_9.jpg",
-    "https://content-media.bonial.biz/a81f4b5a-ab8f-472f-96ba-9f5f308be101/zoomlarge_page_10.jpg",
-    "https://content-media.bonial.biz/3240bf25-e48b-41f8-8860-1fb7246f905a/zoomlarge_page_11.jpg",
-    "https://content-media.bonial.biz/9e37fccf-5aa3-47f3-aa2e-2ba4dfa5ad1b/zoomlarge_page_12.jpg",
-    "https://content-media.bonial.biz/f64dc053-ff3e-4a49-930e-b8670f0a5672/zoomlarge_page_13.jpg",
-    "https://content-media.bonial.biz/f15d3246-831c-401e-8753-d4bbcfcaec56/zoomlarge_page_14.jpg",
-    "https://content-media.bonial.biz/8f00ce19-0cad-4553-99d9-4dae304e47a6/zoomlarge_page_15.jpg"
    ]
   }
  ]
