@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-27T09:44:56.640Z",
+ "stand": "2026-10-28T10:30:12.968Z",
  "haeuser": [
   {
    "id": "DE-1002",
@@ -744,6 +744,19 @@
     "https://content-media.bonial.biz/45221c44-7a31-4c87-a2c0-d97b36c4f7b2/zoomlarge_page_8.jpg",
     "https://content-media.bonial.biz/d9bb02f0-fdbf-402a-9f46-880d1236eb5a/zoomlarge_page_9.jpg"
    ]
+  },
+  {
+   "id": "1d2b8f1a-54a0-4a2f-8995-4684545377c5",
+   "haus": "DE-34906847",
+   "titel": "Leuchten Spezial",
+   "gueltigVon": "2026-10-28T08:30:00.000Z",
+   "gueltigBis": "2026-11-29T22:00:00.000Z",
+   "erstmalsGesehen": "2026-10-28",
+   "art": "liste",
+   "titelbild": "https://content-media.bonial.biz/1d2b8f1a-54a0-4a2f-8995-4684545377c5/preview.jpg",
+   "filiale": "Parsdorf",
+   "entfernungKm": 40,
+   "seiten": []
   },
   {
    "id": "b496b98e-42f3-4c5c-b0f5-1fce147c2d65",
