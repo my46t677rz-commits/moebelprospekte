@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-29T10:50:34.710Z",
+ "stand": "2026-10-30T10:48:49.612Z",
  "haeuser": [
   {
    "id": "DE-1002",
@@ -743,6 +743,36 @@
     "https://content-media.bonial.biz/35db6d6e-8838-46ba-ab46-1d037e537d9c/zoomlarge_page_7.jpg",
     "https://content-media.bonial.biz/45221c44-7a31-4c87-a2c0-d97b36c4f7b2/zoomlarge_page_8.jpg",
     "https://content-media.bonial.biz/d9bb02f0-fdbf-402a-9f46-880d1236eb5a/zoomlarge_page_9.jpg"
+   ]
+  },
+  {
+   "id": "e1a064cb-d254-415f-937a-db279981caac",
+   "haus": "DE-34906847",
+   "titel": "Küchen Spezial",
+   "gueltigVon": "2026-10-29T23:00:00.000Z",
+   "gueltigBis": "2027-01-09T22:00:00.000Z",
+   "erstmalsGesehen": "2026-10-30",
+   "art": "seiten",
+   "titelbild": "https://content-media.bonial.biz/e1a064cb-d254-415f-937a-db279981caac/preview.jpg",
+   "filiale": "Parsdorf",
+   "entfernungKm": 40,
+   "seiten": [
+    "https://content-media.bonial.biz/5951afe2-e9ea-49e9-86c9-9e9c9b08c4aa/zoomlarge_page_0.jpg",
+    "https://content-media.bonial.biz/015909d4-fde0-45b0-88d4-720993a8d5c6/zoomlarge_page_1.jpg",
+    "https://content-media.bonial.biz/3d7bc7f4-3167-4b50-8cdf-6f8adcab5c63/zoomlarge_page_2.jpg",
+    "https://content-media.bonial.biz/7c1209ce-2839-48ae-a372-314cd19c2710/zoomlarge_page_3.jpg",
+    "https://content-media.bonial.biz/d1fdbae2-85cd-4442-86be-c7835a26cabb/zoomlarge_page_4.jpg",
+    "https://content-media.bonial.biz/316008c4-0021-459b-a4fe-579964193cba/zoomlarge_page_5.jpg",
+    "https://content-media.bonial.biz/19b44ea5-bd7d-430e-b511-74a5f9586b78/zoomlarge_page_6.jpg",
+    "https://content-media.bonial.biz/a33c6752-7f48-4993-9c99-da2acd4d5201/zoomlarge_page_7.jpg",
+    "https://content-media.bonial.biz/bf86a5f0-32d2-4cdb-bd32-cbd08201e245/zoomlarge_page_8.jpg",
+    "https://content-media.bonial.biz/d15d5083-4cd2-40fe-8152-f94ce987447a/zoomlarge_page_9.jpg",
+    "https://content-media.bonial.biz/f93ddc7f-2e3b-4a43-8aa7-e94f127e3377/zoomlarge_page_10.jpg",
+    "https://content-media.bonial.biz/1798a885-305e-4729-ba51-f31de4954e13/zoomlarge_page_11.jpg",
+    "https://content-media.bonial.biz/d130cf04-48de-4ae6-a9cd-42c0d339935a/zoomlarge_page_12.jpg",
+    "https://content-media.bonial.biz/ccb95b76-e78c-4091-a7b8-99a8d090732b/zoomlarge_page_13.jpg",
+    "https://content-media.bonial.biz/35e6c73a-9f99-4d8f-8c89-8d737cd7f7d9/zoomlarge_page_14.jpg",
+    "https://content-media.bonial.biz/b55a2891-2c32-4ab7-bcdb-a705f7b38955/zoomlarge_page_15.jpg"
    ]
   },
   {
