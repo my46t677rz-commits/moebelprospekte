@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-02T12:15:36.218Z",
+ "stand": "2026-11-03T11:50:18.159Z",
  "haeuser": [
   {
    "id": "DE-1002",
@@ -121,6 +121,19 @@
     "https://content-media.bonial.biz/8dd8010a-4efc-4633-9a52-d6bb427d0424/zoomlarge_page_2.jpg",
     "https://content-media.bonial.biz/c91c9d7f-be73-459d-aa47-6d0fbfb8c6c1/zoomlarge_page_3.jpg"
    ]
+  },
+  {
+   "id": "fe606290-e8c4-4115-9735-833ee853aefc",
+   "haus": "DE-34906914",
+   "titel": "ABVERKAUF TISCHE & STÜHLE",
+   "gueltigVon": "2026-11-01T23:00:00.000Z",
+   "gueltigBis": "2026-11-15T22:00:00.000Z",
+   "erstmalsGesehen": "2026-11-03",
+   "art": "liste",
+   "titelbild": "https://content-media.bonial.biz/fe606290-e8c4-4115-9735-833ee853aefc/preview.jpg",
+   "filiale": "Landshut",
+   "entfernungKm": 29,
+   "seiten": []
   },
   {
    "id": "87d77b94-d488-4475-80d5-0193fe428440",
@@ -361,19 +374,6 @@
    "erstmalsGesehen": "2026-10-27",
    "art": "liste",
    "titelbild": "https://content-media.bonial.biz/17ab4fc0-7863-4d54-b6b8-1a712c58531c/preview.jpg",
-   "filiale": "Landshut",
-   "entfernungKm": 29,
-   "seiten": []
-  },
-  {
-   "id": "2ba57c4f-063d-4307-bbc1-6b9aad32eaa4",
-   "haus": "DE-34906914",
-   "titel": "ALLES FÜR DEIN BABY",
-   "gueltigVon": "2026-10-24T22:00:00.000Z",
-   "gueltigBis": "2026-11-02T22:00:00.000Z",
-   "erstmalsGesehen": "2026-10-27",
-   "art": "liste",
-   "titelbild": "https://content-media.bonial.biz/2ba57c4f-063d-4307-bbc1-6b9aad32eaa4/preview.jpg",
    "filiale": "Landshut",
    "entfernungKm": 29,
    "seiten": []
