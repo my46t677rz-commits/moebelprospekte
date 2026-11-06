@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-05T12:11:00.746Z",
+ "stand": "2026-11-06T11:59:22.223Z",
  "haeuser": [
   {
    "id": "DE-1011",
@@ -245,6 +245,28 @@
    ]
   },
   {
+   "id": "c1de2c01-542e-489a-8117-61657d5fd411",
+   "haus": "DE-34906914",
+   "titel": "BIS ZU 67% SPAREN",
+   "gueltigVon": "2026-10-30T23:00:00.000Z",
+   "gueltigBis": "2026-11-13T22:00:00.000Z",
+   "erstmalsGesehen": "2026-10-31",
+   "art": "seiten",
+   "titelbild": "https://content-media.bonial.biz/c1de2c01-542e-489a-8117-61657d5fd411/preview.jpg",
+   "filiale": "Landshut",
+   "entfernungKm": 29,
+   "seiten": [
+    "https://content-media.bonial.biz/3f986148-fcd3-45c1-abb1-aeea0401d420/zoomlarge_page_0.jpg",
+    "https://content-media.bonial.biz/b3fc934a-736c-4516-9f34-8845836985e6/zoomlarge_page_1.jpg",
+    "https://content-media.bonial.biz/d6ee3d33-1edc-425d-a05f-01f5bbe19989/zoomlarge_page_2.jpg",
+    "https://content-media.bonial.biz/5753127c-9167-4521-89f3-28004cdfe250/zoomlarge_page_3.jpg",
+    "https://content-media.bonial.biz/2a9ad4df-843b-492d-a94c-0cdcc8684e7c/zoomlarge_page_4.jpg",
+    "https://content-media.bonial.biz/1c9063be-9f64-463a-b2db-24f1ab4ac206/zoomlarge_page_5.jpg",
+    "https://content-media.bonial.biz/b2f056d5-7861-426b-88c8-b0c491062156/zoomlarge_page_6.jpg",
+    "https://content-media.bonial.biz/4b264b49-0d94-4e34-b037-1721c3428605/zoomlarge_page_7.jpg"
+   ]
+  },
+  {
    "id": "1bba442b-04d7-489e-916a-2474b26dfc31",
    "haus": "DE-34906914",
    "titel": "BIS ZU 67% SPAREN",
@@ -275,28 +297,6 @@
    ]
   },
   {
-   "id": "c1de2c01-542e-489a-8117-61657d5fd411",
-   "haus": "DE-34906914",
-   "titel": "BIS ZU 67% SPAREN",
-   "gueltigVon": "2026-10-30T23:00:00.000Z",
-   "gueltigBis": "2026-11-13T22:00:00.000Z",
-   "erstmalsGesehen": "2026-10-31",
-   "art": "seiten",
-   "titelbild": "https://content-media.bonial.biz/c1de2c01-542e-489a-8117-61657d5fd411/preview.jpg",
-   "filiale": "Landshut",
-   "entfernungKm": 29,
-   "seiten": [
-    "https://content-media.bonial.biz/3f986148-fcd3-45c1-abb1-aeea0401d420/zoomlarge_page_0.jpg",
-    "https://content-media.bonial.biz/b3fc934a-736c-4516-9f34-8845836985e6/zoomlarge_page_1.jpg",
-    "https://content-media.bonial.biz/d6ee3d33-1edc-425d-a05f-01f5bbe19989/zoomlarge_page_2.jpg",
-    "https://content-media.bonial.biz/5753127c-9167-4521-89f3-28004cdfe250/zoomlarge_page_3.jpg",
-    "https://content-media.bonial.biz/2a9ad4df-843b-492d-a94c-0cdcc8684e7c/zoomlarge_page_4.jpg",
-    "https://content-media.bonial.biz/1c9063be-9f64-463a-b2db-24f1ab4ac206/zoomlarge_page_5.jpg",
-    "https://content-media.bonial.biz/b2f056d5-7861-426b-88c8-b0c491062156/zoomlarge_page_6.jpg",
-    "https://content-media.bonial.biz/4b264b49-0d94-4e34-b037-1721c3428605/zoomlarge_page_7.jpg"
-   ]
-  },
-  {
    "id": "93f8bd33-6cda-4df9-a554-8f2bb5d267ed",
    "haus": "DE-34906914",
    "titel": "BLACK SHOPPING WEEK",
@@ -319,7 +319,7 @@
    "haus": "DE-34906914",
    "titel": "NR. 1 BEIM PREIS",
    "gueltigVon": "2026-10-30T23:00:00.000Z",
-   "gueltigBis": "2026-11-08T22:00:00.000Z",
+   "gueltigBis": "2026-11-15T22:00:00.000Z",
    "erstmalsGesehen": "2026-10-31",
    "art": "seiten",
    "titelbild": "https://content-media.bonial.biz/04180a50-acf0-423c-87b6-e4cc39da38a9/preview.jpg",
