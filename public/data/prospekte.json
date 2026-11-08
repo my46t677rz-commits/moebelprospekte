@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-07T10:59:17.777Z",
+ "stand": "2026-11-08T11:13:03.712Z",
  "haeuser": [
   {
    "id": "DE-1011",
@@ -114,51 +114,53 @@
    ]
   },
   {
-   "id": "057fd3cd-325f-4785-b7d6-d1a8730cdeff",
+   "id": "98f0d1a5-4e51-40b1-9f71-9d14586027de",
    "haus": "DE-1063",
    "titel": "BLACK WEEKS",
-   "gueltigVon": "2026-10-24T22:00:00.000Z",
-   "gueltigBis": "2026-11-07T22:59:00.000Z",
-   "erstmalsGesehen": "2026-11-01",
+   "gueltigVon": "2026-11-07T23:00:00.000Z",
+   "gueltigBis": "2026-11-21T22:59:00.000Z",
+   "erstmalsGesehen": "2026-11-08",
    "art": "seiten",
-   "titelbild": "https://content-media.bonial.biz/057fd3cd-325f-4785-b7d6-d1a8730cdeff/preview.jpg",
+   "titelbild": "https://content-media.bonial.biz/98f0d1a5-4e51-40b1-9f71-9d14586027de/preview.jpg",
    "filiale": "Eching",
    "entfernungKm": 24,
    "seiten": [
-    "https://content-media.bonial.biz/99ec7271-fb46-4530-a744-db89c45aacf1/zoomlarge_page_0.jpg",
-    "https://content-media.bonial.biz/b8d9106e-f583-45a7-9470-e54d798a42ee/zoomlarge_page_1.jpg",
-    "https://content-media.bonial.biz/19ca438e-2435-4a7b-b11a-1e2ca3ee844e/zoomlarge_page_2.jpg",
-    "https://content-media.bonial.biz/8e334dc5-8c58-46a3-bb2f-231c814dd0c0/zoomlarge_page_3.jpg",
-    "https://content-media.bonial.biz/e67b2c2d-4f94-44e0-84df-ed9946241dae/zoomlarge_page_4.jpg",
-    "https://content-media.bonial.biz/1c3ca95c-2839-4e97-9f75-733c8469cabb/zoomlarge_page_5.jpg",
-    "https://content-media.bonial.biz/2d5596fe-d689-4df5-9c47-e99cd8fad296/zoomlarge_page_6.jpg",
-    "https://content-media.bonial.biz/dc90651a-832d-429b-8202-d412c554bcaf/zoomlarge_page_7.jpg",
-    "https://content-media.bonial.biz/2f6ce167-caba-4d2e-8916-b4ebd7fda1fc/zoomlarge_page_8.jpg",
-    "https://content-media.bonial.biz/f00ca32b-68f3-41fd-8d50-747c50676699/zoomlarge_page_9.jpg",
-    "https://content-media.bonial.biz/7ae9513a-66c0-45ae-8ee4-3b4f10f0821e/zoomlarge_page_10.jpg",
-    "https://content-media.bonial.biz/49d9e236-26f3-4b47-b4ff-1842606916bc/zoomlarge_page_11.jpg",
-    "https://content-media.bonial.biz/9442ba80-76da-4c66-9a64-4ef9c676011b/zoomlarge_page_12.jpg",
-    "https://content-media.bonial.biz/04a5a427-1749-44fc-ae46-6bfd0e9343ed/zoomlarge_page_13.jpg",
-    "https://content-media.bonial.biz/07f84342-44ce-471a-adaf-a2a5300e4dbd/zoomlarge_page_14.jpg",
-    "https://content-media.bonial.biz/51ef04b4-0eec-4231-9b46-74e16200b7f8/zoomlarge_page_15.jpg"
+    "https://content-media.bonial.biz/9940bbba-3164-45ff-bc74-7e49f3d4742d/zoomlarge_page_0.jpg",
+    "https://content-media.bonial.biz/93473285-8591-4a29-9dc9-9840e0f253fa/zoomlarge_page_1.jpg",
+    "https://content-media.bonial.biz/d02affae-b65e-4958-9fe7-ca058ca04331/zoomlarge_page_2.jpg",
+    "https://content-media.bonial.biz/ca5c087b-6de9-41a4-a81d-2dcd64b552ec/zoomlarge_page_3.jpg",
+    "https://content-media.bonial.biz/4e7243e7-e764-4a89-81d4-4e85cd35b003/zoomlarge_page_4.jpg",
+    "https://content-media.bonial.biz/a3448615-a7be-429d-b5a1-bca5f0771351/zoomlarge_page_5.jpg",
+    "https://content-media.bonial.biz/f4d74fb0-3f24-4283-b879-6262caf493f5/zoomlarge_page_6.jpg",
+    "https://content-media.bonial.biz/1ea0bdd6-1528-49dc-a7b0-c9b76af7e53c/zoomlarge_page_7.jpg",
+    "https://content-media.bonial.biz/1ef1b3c4-36b6-47ac-bee9-b18d608ebaa1/zoomlarge_page_8.jpg",
+    "https://content-media.bonial.biz/a0846f40-895d-4cee-9ed1-901683644f97/zoomlarge_page_9.jpg",
+    "https://content-media.bonial.biz/e3d758fa-18f6-4eca-81d0-a129266c485d/zoomlarge_page_10.jpg",
+    "https://content-media.bonial.biz/138ccb2d-95b9-4e82-bbac-51b425106088/zoomlarge_page_11.jpg",
+    "https://content-media.bonial.biz/d31f4fc2-cd0c-43cb-9f57-d3b9a43b9d65/zoomlarge_page_12.jpg",
+    "https://content-media.bonial.biz/22390296-2687-480e-b4b8-be8262c7cb72/zoomlarge_page_13.jpg",
+    "https://content-media.bonial.biz/37045486-8746-42d3-a2ca-5493f1bea0b2/zoomlarge_page_14.jpg",
+    "https://content-media.bonial.biz/c9266c0c-f256-40cf-aacb-824852101d2e/zoomlarge_page_15.jpg",
+    "https://content-media.bonial.biz/43c863e1-317b-40f2-9b4f-03b9644a53d8/zoomlarge_page_16.jpg",
+    "https://content-media.bonial.biz/2b71f33a-d91e-44da-b515-89d4708144b4/zoomlarge_page_17.jpg"
    ]
   },
   {
-   "id": "4fbd31ef-8d09-436d-b5e4-215abb724ba0",
+   "id": "0aa110f2-d5e8-4dd3-a567-a5e34cc9a4bb",
    "haus": "DE-1063",
-   "titel": "Küchen modern gedacht",
+   "titel": "Wohnen und Träumen",
    "gueltigVon": "2026-10-24T22:00:00.000Z",
    "gueltigBis": "2026-11-21T22:59:00.000Z",
-   "erstmalsGesehen": "2026-11-01",
+   "erstmalsGesehen": "2026-11-08",
    "art": "seiten",
-   "titelbild": "https://content-media.bonial.biz/4fbd31ef-8d09-436d-b5e4-215abb724ba0/preview.jpg",
+   "titelbild": "https://content-media.bonial.biz/0aa110f2-d5e8-4dd3-a567-a5e34cc9a4bb/preview.jpg",
    "filiale": "Eching",
    "entfernungKm": 24,
    "seiten": [
-    "https://content-media.bonial.biz/ec09e861-69f4-4166-8737-4e48c531eab9/zoomlarge_page_0.jpg",
-    "https://content-media.bonial.biz/c89ca243-a5c7-495a-ac76-7777822928b8/zoomlarge_page_1.jpg",
-    "https://content-media.bonial.biz/8dd8010a-4efc-4633-9a52-d6bb427d0424/zoomlarge_page_2.jpg",
-    "https://content-media.bonial.biz/c91c9d7f-be73-459d-aa47-6d0fbfb8c6c1/zoomlarge_page_3.jpg"
+    "https://content-media.bonial.biz/785ea6b9-18a4-434a-9c3e-c65f80e24322/zoomlarge_page_0.jpg",
+    "https://content-media.bonial.biz/28a77133-fc8b-49e9-b367-d1037884eea3/zoomlarge_page_1.jpg",
+    "https://content-media.bonial.biz/17490ee2-c24e-4656-ba2b-c5f4d38ab231/zoomlarge_page_2.jpg",
+    "https://content-media.bonial.biz/9785aeb9-6861-409d-9bda-f4acbdd12143/zoomlarge_page_3.jpg"
    ]
   },
   {
@@ -285,28 +287,6 @@
    ]
   },
   {
-   "id": "c1de2c01-542e-489a-8117-61657d5fd411",
-   "haus": "DE-34906914",
-   "titel": "BIS ZU 67% SPAREN",
-   "gueltigVon": "2026-10-30T23:00:00.000Z",
-   "gueltigBis": "2026-11-13T22:00:00.000Z",
-   "erstmalsGesehen": "2026-10-31",
-   "art": "seiten",
-   "titelbild": "https://content-media.bonial.biz/c1de2c01-542e-489a-8117-61657d5fd411/preview.jpg",
-   "filiale": "Landshut",
-   "entfernungKm": 29,
-   "seiten": [
-    "https://content-media.bonial.biz/3f986148-fcd3-45c1-abb1-aeea0401d420/zoomlarge_page_0.jpg",
-    "https://content-media.bonial.biz/b3fc934a-736c-4516-9f34-8845836985e6/zoomlarge_page_1.jpg",
-    "https://content-media.bonial.biz/d6ee3d33-1edc-425d-a05f-01f5bbe19989/zoomlarge_page_2.jpg",
-    "https://content-media.bonial.biz/5753127c-9167-4521-89f3-28004cdfe250/zoomlarge_page_3.jpg",
-    "https://content-media.bonial.biz/2a9ad4df-843b-492d-a94c-0cdcc8684e7c/zoomlarge_page_4.jpg",
-    "https://content-media.bonial.biz/1c9063be-9f64-463a-b2db-24f1ab4ac206/zoomlarge_page_5.jpg",
-    "https://content-media.bonial.biz/b2f056d5-7861-426b-88c8-b0c491062156/zoomlarge_page_6.jpg",
-    "https://content-media.bonial.biz/4b264b49-0d94-4e34-b037-1721c3428605/zoomlarge_page_7.jpg"
-   ]
-  },
-  {
    "id": "1bba442b-04d7-489e-916a-2474b26dfc31",
    "haus": "DE-34906914",
    "titel": "BIS ZU 67% SPAREN",
@@ -334,6 +314,28 @@
     "https://content-media.bonial.biz/e89ed304-adcd-40da-a093-92ab3b40bc97/zoomlarge_page_13.jpg",
     "https://content-media.bonial.biz/6620ccb9-88ef-41d6-b2bd-539d67a8f9f0/zoomlarge_page_14.jpg",
     "https://content-media.bonial.biz/3f0c086b-142b-4823-9062-92a30e609891/zoomlarge_page_15.jpg"
+   ]
+  },
+  {
+   "id": "c1de2c01-542e-489a-8117-61657d5fd411",
+   "haus": "DE-34906914",
+   "titel": "BIS ZU 67% SPAREN",
+   "gueltigVon": "2026-10-30T23:00:00.000Z",
+   "gueltigBis": "2026-11-13T22:00:00.000Z",
+   "erstmalsGesehen": "2026-10-31",
+   "art": "seiten",
+   "titelbild": "https://content-media.bonial.biz/c1de2c01-542e-489a-8117-61657d5fd411/preview.jpg",
+   "filiale": "Landshut",
+   "entfernungKm": 29,
+   "seiten": [
+    "https://content-media.bonial.biz/3f986148-fcd3-45c1-abb1-aeea0401d420/zoomlarge_page_0.jpg",
+    "https://content-media.bonial.biz/b3fc934a-736c-4516-9f34-8845836985e6/zoomlarge_page_1.jpg",
+    "https://content-media.bonial.biz/d6ee3d33-1edc-425d-a05f-01f5bbe19989/zoomlarge_page_2.jpg",
+    "https://content-media.bonial.biz/5753127c-9167-4521-89f3-28004cdfe250/zoomlarge_page_3.jpg",
+    "https://content-media.bonial.biz/2a9ad4df-843b-492d-a94c-0cdcc8684e7c/zoomlarge_page_4.jpg",
+    "https://content-media.bonial.biz/1c9063be-9f64-463a-b2db-24f1ab4ac206/zoomlarge_page_5.jpg",
+    "https://content-media.bonial.biz/b2f056d5-7861-426b-88c8-b0c491062156/zoomlarge_page_6.jpg",
+    "https://content-media.bonial.biz/4b264b49-0d94-4e34-b037-1721c3428605/zoomlarge_page_7.jpg"
    ]
   },
   {
