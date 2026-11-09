@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-08T11:13:03.712Z",
+ "stand": "2026-11-09T12:44:57.999Z",
  "haeuser": [
   {
    "id": "DE-1011",
@@ -11,12 +11,6 @@
    "id": "DE-1002",
    "name": "IKEA",
    "logo": "https://publisher-media.bonial.biz/publisher-logos/a936fe04-0be4-4f1d-bb5f-8240c66060a1.png?impolicy=128x128",
-   "entfernungKm": 24
-  },
-  {
-   "id": "DE-34906053",
-   "name": "mömax",
-   "logo": "https://publisher-media.bonial.biz/publisher-logos/4d013676-7589-4de0-987a-0858e4b5ec40.png?impolicy=128x128",
    "entfernungKm": 24
   },
   {
@@ -73,45 +67,17 @@
    ]
   },
   {
-   "id": "3cdbd751-7c12-4b0b-9a39-43376a19e747",
+   "id": "63c9ba57-a141-4258-96a7-78c4fa7cf9bb",
    "haus": "DE-1002",
-   "titel": "Freuvember",
-   "gueltigVon": "2026-11-01T23:00:00.000Z",
-   "gueltigBis": "2026-11-08T23:00:00.000Z",
-   "erstmalsGesehen": "2026-11-02",
+   "titel": "Raum für deine Lieblingsstücke",
+   "gueltigVon": "2026-11-08T23:00:00.000Z",
+   "gueltigBis": "2026-11-15T23:00:00.000Z",
+   "erstmalsGesehen": "2026-11-09",
    "art": "liste",
-   "titelbild": "https://content-media.bonial.biz/3cdbd751-7c12-4b0b-9a39-43376a19e747/preview.jpg",
+   "titelbild": "https://content-media.bonial.biz/63c9ba57-a141-4258-96a7-78c4fa7cf9bb/preview.jpg",
    "filiale": "Eching",
    "entfernungKm": 24,
    "seiten": []
-  },
-  {
-   "id": "6cd692c5-8dcf-41e8-9447-db5e85a30173",
-   "haus": "DE-34906053",
-   "titel": "19% MwSt. auf viele Möbel",
-   "gueltigVon": "2026-10-24T22:00:00.000Z",
-   "gueltigBis": "2026-11-08T22:00:00.000Z",
-   "erstmalsGesehen": "2026-10-27",
-   "art": "seiten",
-   "titelbild": "https://content-media.bonial.biz/6cd692c5-8dcf-41e8-9447-db5e85a30173/preview.jpg",
-   "filiale": "Eching-Ost",
-   "entfernungKm": 24,
-   "seiten": [
-    "https://content-media.bonial.biz/85cf5a29-3ebe-4b64-af24-bb93fd57b15a/zoomlarge_page_0.jpg",
-    "https://content-media.bonial.biz/a4778835-53b6-45ac-81ad-5e4ae18d2848/zoomlarge_page_1.jpg",
-    "https://content-media.bonial.biz/1a4aef8b-b010-41b2-9e94-4dc527cce11e/zoomlarge_page_2.jpg",
-    "https://content-media.bonial.biz/0488ccce-cb58-45cd-b882-cc7880de50be/zoomlarge_page_3.jpg",
-    "https://content-media.bonial.biz/dc3ecb13-8b05-4656-892e-e9c7e6be86c4/zoomlarge_page_4.jpg",
-    "https://content-media.bonial.biz/427fd2b9-4455-4ed6-940a-1b420d0099e9/zoomlarge_page_5.jpg",
-    "https://content-media.bonial.biz/fd65fd58-241b-497c-9eb4-5adfe386b204/zoomlarge_page_6.jpg",
-    "https://content-media.bonial.biz/78ef91d6-5402-4396-aaf1-c7efb93e36bc/zoomlarge_page_7.jpg",
-    "https://content-media.bonial.biz/9ba6dcb2-30e6-46a5-b884-6fbf4a5d2ab7/zoomlarge_page_8.jpg",
-    "https://content-media.bonial.biz/26fd795d-b208-4ba2-8395-e47c7c4a6b6f/zoomlarge_page_9.jpg",
-    "https://content-media.bonial.biz/861e8876-4948-4f6b-a3cd-ddcf88309bca/zoomlarge_page_10.jpg",
-    "https://content-media.bonial.biz/3800d19e-4102-45a3-9931-bc9374fede00/zoomlarge_page_11.jpg",
-    "https://content-media.bonial.biz/4e5bad8b-6492-4bda-b2e7-442f4dddf3a3/zoomlarge_page_12.jpg",
-    "https://content-media.bonial.biz/fae9a7a6-fbf7-40c1-8753-e871f5f5bcae/zoomlarge_page_13.jpg"
-   ]
   },
   {
    "id": "98f0d1a5-4e51-40b1-9f71-9d14586027de",
@@ -162,6 +128,19 @@
     "https://content-media.bonial.biz/17490ee2-c24e-4656-ba2b-c5f4d38ab231/zoomlarge_page_2.jpg",
     "https://content-media.bonial.biz/9785aeb9-6861-409d-9bda-f4acbdd12143/zoomlarge_page_3.jpg"
    ]
+  },
+  {
+   "id": "a161f03c-7549-48a4-ae63-9eda1a12cda2",
+   "haus": "DE-34906914",
+   "titel": "TOP DEALS für Ihren Haushalt",
+   "gueltigVon": "2026-11-08T23:00:00.000Z",
+   "gueltigBis": "2026-11-22T22:00:00.000Z",
+   "erstmalsGesehen": "2026-11-09",
+   "art": "liste",
+   "titelbild": "https://content-media.bonial.biz/a161f03c-7549-48a4-ae63-9eda1a12cda2/preview.jpg",
+   "filiale": "Landshut",
+   "entfernungKm": 29,
+   "seiten": []
   },
   {
    "id": "dca0dee8-8e07-475c-99ba-9c3d118854ff",
@@ -287,6 +266,28 @@
    ]
   },
   {
+   "id": "c1de2c01-542e-489a-8117-61657d5fd411",
+   "haus": "DE-34906914",
+   "titel": "BIS ZU 67% SPAREN",
+   "gueltigVon": "2026-10-30T23:00:00.000Z",
+   "gueltigBis": "2026-11-13T22:00:00.000Z",
+   "erstmalsGesehen": "2026-10-31",
+   "art": "seiten",
+   "titelbild": "https://content-media.bonial.biz/c1de2c01-542e-489a-8117-61657d5fd411/preview.jpg",
+   "filiale": "Landshut",
+   "entfernungKm": 29,
+   "seiten": [
+    "https://content-media.bonial.biz/3f986148-fcd3-45c1-abb1-aeea0401d420/zoomlarge_page_0.jpg",
+    "https://content-media.bonial.biz/b3fc934a-736c-4516-9f34-8845836985e6/zoomlarge_page_1.jpg",
+    "https://content-media.bonial.biz/d6ee3d33-1edc-425d-a05f-01f5bbe19989/zoomlarge_page_2.jpg",
+    "https://content-media.bonial.biz/5753127c-9167-4521-89f3-28004cdfe250/zoomlarge_page_3.jpg",
+    "https://content-media.bonial.biz/2a9ad4df-843b-492d-a94c-0cdcc8684e7c/zoomlarge_page_4.jpg",
+    "https://content-media.bonial.biz/1c9063be-9f64-463a-b2db-24f1ab4ac206/zoomlarge_page_5.jpg",
+    "https://content-media.bonial.biz/b2f056d5-7861-426b-88c8-b0c491062156/zoomlarge_page_6.jpg",
+    "https://content-media.bonial.biz/4b264b49-0d94-4e34-b037-1721c3428605/zoomlarge_page_7.jpg"
+   ]
+  },
+  {
    "id": "1bba442b-04d7-489e-916a-2474b26dfc31",
    "haus": "DE-34906914",
    "titel": "BIS ZU 67% SPAREN",
@@ -314,46 +315,6 @@
     "https://content-media.bonial.biz/e89ed304-adcd-40da-a093-92ab3b40bc97/zoomlarge_page_13.jpg",
     "https://content-media.bonial.biz/6620ccb9-88ef-41d6-b2bd-539d67a8f9f0/zoomlarge_page_14.jpg",
     "https://content-media.bonial.biz/3f0c086b-142b-4823-9062-92a30e609891/zoomlarge_page_15.jpg"
-   ]
-  },
-  {
-   "id": "c1de2c01-542e-489a-8117-61657d5fd411",
-   "haus": "DE-34906914",
-   "titel": "BIS ZU 67% SPAREN",
-   "gueltigVon": "2026-10-30T23:00:00.000Z",
-   "gueltigBis": "2026-11-13T22:00:00.000Z",
-   "erstmalsGesehen": "2026-10-31",
-   "art": "seiten",
-   "titelbild": "https://content-media.bonial.biz/c1de2c01-542e-489a-8117-61657d5fd411/preview.jpg",
-   "filiale": "Landshut",
-   "entfernungKm": 29,
-   "seiten": [
-    "https://content-media.bonial.biz/3f986148-fcd3-45c1-abb1-aeea0401d420/zoomlarge_page_0.jpg",
-    "https://content-media.bonial.biz/b3fc934a-736c-4516-9f34-8845836985e6/zoomlarge_page_1.jpg",
-    "https://content-media.bonial.biz/d6ee3d33-1edc-425d-a05f-01f5bbe19989/zoomlarge_page_2.jpg",
-    "https://content-media.bonial.biz/5753127c-9167-4521-89f3-28004cdfe250/zoomlarge_page_3.jpg",
-    "https://content-media.bonial.biz/2a9ad4df-843b-492d-a94c-0cdcc8684e7c/zoomlarge_page_4.jpg",
-    "https://content-media.bonial.biz/1c9063be-9f64-463a-b2db-24f1ab4ac206/zoomlarge_page_5.jpg",
-    "https://content-media.bonial.biz/b2f056d5-7861-426b-88c8-b0c491062156/zoomlarge_page_6.jpg",
-    "https://content-media.bonial.biz/4b264b49-0d94-4e34-b037-1721c3428605/zoomlarge_page_7.jpg"
-   ]
-  },
-  {
-   "id": "93f8bd33-6cda-4df9-a554-8f2bb5d267ed",
-   "haus": "DE-34906914",
-   "titel": "BLACK SHOPPING WEEK",
-   "gueltigVon": "2026-10-30T23:00:00.000Z",
-   "gueltigBis": "2026-11-08T22:00:00.000Z",
-   "erstmalsGesehen": "2026-10-31",
-   "art": "seiten",
-   "titelbild": "https://content-media.bonial.biz/93f8bd33-6cda-4df9-a554-8f2bb5d267ed/preview.jpg",
-   "filiale": "Landshut",
-   "entfernungKm": 29,
-   "seiten": [
-    "https://content-media.bonial.biz/dceb5d33-7f69-4f59-ab9f-8ee412946aa4/zoomlarge_page_0.jpg",
-    "https://content-media.bonial.biz/95a441e5-ed90-453b-8c0a-4dad0c2318f0/zoomlarge_page_1.jpg",
-    "https://content-media.bonial.biz/123fce45-0d0a-45b1-8372-06b3b86bfd70/zoomlarge_page_2.jpg",
-    "https://content-media.bonial.biz/e538752c-5f0d-412f-ab58-2aec709df816/zoomlarge_page_3.jpg"
    ]
   },
   {
@@ -423,17 +384,44 @@
    ]
   },
   {
-   "id": "17ab4fc0-7863-4d54-b6b8-1a712c58531c",
-   "haus": "DE-34906914",
-   "titel": "TOP DEALS",
-   "gueltigVon": "2026-10-25T23:00:00.000Z",
-   "gueltigBis": "2026-11-08T22:00:00.000Z",
-   "erstmalsGesehen": "2026-10-27",
-   "art": "liste",
-   "titelbild": "https://content-media.bonial.biz/17ab4fc0-7863-4d54-b6b8-1a712c58531c/preview.jpg",
-   "filiale": "Landshut",
-   "entfernungKm": 29,
-   "seiten": []
+   "id": "81a3c3e7-3e9a-4cb9-b2e6-4d4785bc10df",
+   "haus": "DE-34906847",
+   "titel": "Baby Spezial",
+   "gueltigVon": "2026-11-08T23:00:00.000Z",
+   "gueltigBis": "2026-11-29T22:00:00.000Z",
+   "erstmalsGesehen": "2026-11-09",
+   "art": "seiten",
+   "titelbild": "https://content-media.bonial.biz/81a3c3e7-3e9a-4cb9-b2e6-4d4785bc10df/preview.jpg",
+   "filiale": "Parsdorf",
+   "entfernungKm": 40,
+   "seiten": [
+    "https://content-media.bonial.biz/dc927c41-f18c-4af9-8c41-b3d5e043de1b/zoomlarge_page_0.jpg",
+    "https://content-media.bonial.biz/0ebf78f6-10b7-46ba-a681-330967d44e03/zoomlarge_page_1.jpg",
+    "https://content-media.bonial.biz/c7c0db1d-4bf8-4201-854a-a24d50fca7ba/zoomlarge_page_2.jpg",
+    "https://content-media.bonial.biz/0f95902a-3251-4308-9aaa-2687ae289c5d/zoomlarge_page_3.jpg",
+    "https://content-media.bonial.biz/94bf755a-a3b9-40c6-ba11-9aae790ead2d/zoomlarge_page_4.jpg",
+    "https://content-media.bonial.biz/9dc8d98a-84b7-40f7-b75f-ec3c6b4d906b/zoomlarge_page_5.jpg",
+    "https://content-media.bonial.biz/fb8fc214-e69d-45ee-8c8b-ac2ea5b9068b/zoomlarge_page_6.jpg",
+    "https://content-media.bonial.biz/1c70e15c-501f-4a18-835a-65e9dffc3f09/zoomlarge_page_7.jpg",
+    "https://content-media.bonial.biz/bec1aedb-e27c-41a2-90d9-b9885b456a05/zoomlarge_page_8.jpg",
+    "https://content-media.bonial.biz/580ebe47-1ba9-4bb6-a861-02e44ce6b85c/zoomlarge_page_9.jpg",
+    "https://content-media.bonial.biz/ec73d22d-6b4d-4e52-9ac7-9aa079ca3cb1/zoomlarge_page_10.jpg",
+    "https://content-media.bonial.biz/2aca74bf-439a-400d-9e67-2b5f74d48d03/zoomlarge_page_11.jpg",
+    "https://content-media.bonial.biz/2d1fb06a-d9b6-4afa-ab4e-f543702d114d/zoomlarge_page_12.jpg",
+    "https://content-media.bonial.biz/e3a13361-0a89-4634-8f00-bb3dc8f141a6/zoomlarge_page_13.jpg",
+    "https://content-media.bonial.biz/1f877aee-764e-4de8-be04-b36a2842ab16/zoomlarge_page_14.jpg",
+    "https://content-media.bonial.biz/321e01b3-b6b4-4dd2-a8b6-931abfc88362/zoomlarge_page_15.jpg",
+    "https://content-media.bonial.biz/f62c8461-19ff-44ee-8ab2-44bbb12a8e87/zoomlarge_page_16.jpg",
+    "https://content-media.bonial.biz/c9916cf1-bdeb-4a59-9ab9-c0d02490d9d8/zoomlarge_page_17.jpg",
+    "https://content-media.bonial.biz/12c5ecb0-8d6f-4dc7-9ef6-8052c96efae9/zoomlarge_page_18.jpg",
+    "https://content-media.bonial.biz/5b3e3764-2c66-4dc3-9c47-5d59c533e416/zoomlarge_page_19.jpg",
+    "https://content-media.bonial.biz/19eddb17-0000-483d-81c8-28e3bf20a83d/zoomlarge_page_20.jpg",
+    "https://content-media.bonial.biz/60d46eca-4371-4584-a6e4-67b73ec92168/zoomlarge_page_21.jpg",
+    "https://content-media.bonial.biz/e1ee4404-15d0-4ae4-8db3-d73f11539cc9/zoomlarge_page_22.jpg",
+    "https://content-media.bonial.biz/0859059e-50e4-430f-83f0-7f0bb0fb45fd/zoomlarge_page_23.jpg",
+    "https://content-media.bonial.biz/140e5ffe-5758-4329-bad6-8e96e1ee72b9/zoomlarge_page_24.jpg",
+    "https://content-media.bonial.biz/11e459e5-6ff0-4d60-9fb3-6f501fa85943/zoomlarge_page_25.jpg"
+   ]
   },
   {
    "id": "415ba59e-9924-431b-a264-12291fa72ab2",
@@ -589,26 +577,6 @@
    "filiale": "Parsdorf",
    "entfernungKm": 40,
    "seiten": []
-  },
-  {
-   "id": "b496b98e-42f3-4c5c-b0f5-1fce147c2d65",
-   "haus": "DE-34906847",
-   "titel": "Glückswochen",
-   "gueltigVon": "2026-10-22T22:00:00.000Z",
-   "gueltigBis": "2026-11-08T22:00:00.000Z",
-   "erstmalsGesehen": "2026-10-23",
-   "art": "seiten",
-   "titelbild": "https://content-media.bonial.biz/b496b98e-42f3-4c5c-b0f5-1fce147c2d65/preview.jpg",
-   "filiale": "Parsdorf",
-   "entfernungKm": 40,
-   "seiten": [
-    "https://content-media.bonial.biz/87fa0a33-3e5a-45d8-b951-d2c6f3d05f4c/zoomlarge_page_0.jpg",
-    "https://content-media.bonial.biz/06a5751a-87f3-4253-8904-6c41515b9df9/zoomlarge_page_1.jpg",
-    "https://content-media.bonial.biz/c3903540-02e4-4ce3-b067-3e4c32d9a7ae/zoomlarge_page_2.jpg",
-    "https://content-media.bonial.biz/f2e54637-d835-4bf2-99dc-cf5d6e723ebf/zoomlarge_page_3.jpg",
-    "https://content-media.bonial.biz/582c68e6-1389-41b6-af26-d263f6054469/zoomlarge_page_4.jpg",
-    "https://content-media.bonial.biz/5b7f9dd6-fc89-4093-8108-b390331534fd/zoomlarge_page_5.jpg"
-   ]
   },
   {
    "id": "cff0271f-0cd5-46a5-8e39-4502366c7f10",
