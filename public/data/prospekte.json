@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-16T12:37:58.519Z",
+ "stand": "2026-11-17T13:08:10.456Z",
  "haeuser": [
   {
    "id": "DE-1011",
@@ -193,6 +193,19 @@
     "https://content-media.bonial.biz/078e0758-ca3b-48c7-8972-bb0252548173/zoomlarge_page_2.jpg",
     "https://content-media.bonial.biz/16c66522-b58b-49d9-9239-741d6d93c35b/zoomlarge_page_3.jpg"
    ]
+  },
+  {
+   "id": "bd780244-aba1-48fd-a1ab-5f4612662da4",
+   "haus": "DE-34906914",
+   "titel": "ABVERKAUF TISCHE & STÜHLE",
+   "gueltigVon": "2026-11-15T23:00:00.000Z",
+   "gueltigBis": "2026-11-29T22:00:00.000Z",
+   "erstmalsGesehen": "2026-11-17",
+   "art": "liste",
+   "titelbild": "https://content-media.bonial.biz/bd780244-aba1-48fd-a1ab-5f4612662da4/preview.jpg",
+   "filiale": "Landshut",
+   "entfernungKm": 29,
+   "seiten": []
   },
   {
    "id": "8bfb1dec-4cf2-4491-9470-678d03fd2016",
